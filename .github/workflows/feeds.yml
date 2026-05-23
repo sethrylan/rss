@@ -22,7 +22,9 @@ jobs:
         run: uv sync --locked
 
       - name: Build feeds
-        run: uv run --locked python scrapers/xbow.py > xbow.xml
+        run: |
+          uv run --locked python scrapers/claude.py > claude.xml
+          uv run --locked python scrapers/xbow.py > xbow.xml
 
       - name: Commit feed updates
         run: |

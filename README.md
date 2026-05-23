@@ -6,6 +6,7 @@ Generated feeds for sites that do not publish their own.
 
 | Site | Feed URL |
 | --- | --- |
+| Claude Blog | `https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml` |
 | XBOW Blog | `https://raw.githubusercontent.com/sethrylan/rss/main/xbow.xml` |
 
 ## Adding a feed

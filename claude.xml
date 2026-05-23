@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+  <id>https://claude.com/blog</id>
+  <title>Claude Blog</title>
+  <updated>2026-05-22T00:00:00+00:00</updated>
+  <author>
+    <name>Anthropic</name>
+  </author>
+  <link href="https://claude.com/blog" rel="alternate"/>
+  <link href="https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
+  <entry>
+    <id>https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers</id>
+    <title>How Anthropic's finance team uses Claude to shape the narrative behind the numbers</title>
+    <updated>2026-05-22T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-05-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity</id>
+    <title>How our partners are putting Opus to work for cybersecurity</title>
+    <updated>2026-05-21T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-05-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/compliance-api-security-partners</id>
+    <title>Claude now works with more security and compliance tools</title>
+    <updated>2026-05-21T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/compliance-api-security-partners"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-05-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book</id>
+    <title>How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book</title>
+    <updated>2026-05-20T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-05-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html</id>
+    <title>Using Claude Code: The unreasonable effectiveness of HTML</title>
+    <updated>2026-05-20T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html"/>
+    <summary>Claude Code</summary>
+    <published>2026-05-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/claude-managed-agents-updates</id>
+    <title>New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels</title>
+    <updated>2026-05-19T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/claude-managed-agents-updates"/>
+    <summary>Product announcements</summary>
+    <published>2026-05-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/deploying-claude-across-the-legal-industry</id>
+    <title>Deploying Claude across the legal industry</title>
+    <updated>2026-05-15T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/deploying-claude-across-the-legal-industry"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-05-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start</id>
+    <title>How Claude Code works in large codebases: Best practices and where to start</title>
+    <updated>2026-05-14T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-05-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/the-founders-playbook</id>
+    <title>The founder's playbook: Building an AI-native startup</title>
+    <updated>2026-05-14T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/the-founders-playbook"/>
+    <summary>Claude Code</summary>
+    <published>2026-05-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude</id>
+    <title>Best practices for computer and browser use with Claude</title>
+    <updated>2026-05-13T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude"/>
+    <summary>Agents</summary>
+    <published>2026-05-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/how-anthropic-uses-claude-cybersecurity</id>
+    <title>How Anthropic's cybersecurity team built a threat detection platform with Claude Code</title>
+    <updated>2026-05-12T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/how-anthropic-uses-claude-cybersecurity"/>
+    <summary>Claude Code</summary>
+    <published>2026-05-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/claude-for-the-legal-industry</id>
+    <title>Claude for the legal industry</title>
+    <updated>2026-05-12T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/claude-for-the-legal-industry"/>
+    <summary>Product announcements</summary>
+    <published>2026-05-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/code-w-claude-sf-2026-sf</id>
+    <title>Code w/ Claude SF 2026 recap: Building on the AI exponential</title>
+    <updated>2026-05-12T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/code-w-claude-sf-2026-sf"/>
+    <summary>Product announcements</summary>
+    <published>2026-05-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/claude-platform-on-aws</id>
+    <title>Introducing the Claude Platform on AWS</title>
+    <updated>2026-05-11T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/claude-platform-on-aws"/>
+    <summary>Product announcements</summary>
+    <published>2026-05-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/agent-view-in-claude-code</id>
+    <title>Agent view in Claude Code</title>
+    <updated>2026-05-11T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/agent-view-in-claude-code"/>
+    <summary>Product announcements</summary>
+    <published>2026-05-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/new-in-claude-managed-agents</id>
+    <title>New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration</title>
+    <updated>2026-05-06T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/new-in-claude-managed-agents"/>
+    <published>2026-05-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/claude-managed-agents-memory</id>
+    <title>Built-in memory for Claude Managed Agents</title>
+    <updated>2026-04-23T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/claude-managed-agents-memory"/>
+    <published>2026-04-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/connectors-for-everyday-life</id>
+    <title>New connectors in Claude for everyday life</title>
+    <updated>2026-04-23T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/connectors-for-everyday-life"/>
+    <published>2026-04-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/claude-code-desktop-redesign</id>
+    <title>Redesigning Claude Code on desktop for parallel agents</title>
+    <updated>2026-04-14T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/claude-code-desktop-redesign"/>
+    <published>2026-04-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense</id>
+    <title>Preparing your security program for AI-accelerated offense</title>
+    <updated>2026-04-10T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense"/>
+    <published>2026-04-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/claude-managed-agents</id>
+    <title>Claude Managed Agents: get to production 10x faster</title>
+    <updated>2026-04-08T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/claude-managed-agents"/>
+    <published>2026-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/harnessing-claudes-intelligence</id>
+    <title>Harnessing Claude’s intelligence</title>
+    <updated>2026-04-02T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/harnessing-claudes-intelligence"/>
+    <published>2026-04-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/claude-builds-visuals</id>
+    <title>Claude now creates interactive charts, diagrams and visualizations</title>
+    <updated>2026-03-12T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/claude-builds-visuals"/>
+    <published>2026-03-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026</id>
+    <title>How enterprises are building AI agents in 2026</title>
+    <updated>2025-12-09T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026"/>
+    <published>2025-12-09T00:00:00+00:00</published>
+  </entry>
+</feed>
