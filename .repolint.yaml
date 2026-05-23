@@ -24,6 +24,8 @@ checks:
     require_timeout: false
     require_minimal_permissions: true
 
+  rulesets: []
+
   files:
     - name: ".github/dependabot.yml"
       reference: "sethrylan/sethrylan/.repolint/go-dependabot.yml"
