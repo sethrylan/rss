@@ -1,0 +1,735 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://xbow.com/blog</id>
+  <title>XBOW Blog</title>
+  <updated>2026-05-22T00:00:00+00:00</updated>
+  <author>
+    <name>XBOW</name>
+  </author>
+  <link href="https://xbow.com/blog" rel="alternate"/>
+  <link href="https://raw.githubusercontent.com/sethrylan/rss/main/xbow.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>AI-powered pentesting insights from XBOW.</subtitle>
+  <entry>
+    <id>https://xbow.com/blog/ethical-considerations-ai-pentesting</id>
+    <title>Ethical Considerations in AI-Driven Penetration Testing: A Governance Framework for Security Teams</title>
+    <updated>2026-05-22T00:00:00+00:00</updated>
+    <author>
+      <name>XBOW Team</name>
+    </author>
+    <link href="https://xbow.com/blog/ethical-considerations-ai-pentesting"/>
+    <summary>By XBOW Team</summary>
+    <published>2026-05-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/ai-pentest-vendors-red-flags</id>
+    <title>10 Red Flags to Investigate When Evaluating AI Pentesting Vendors</title>
+    <updated>2026-05-13T00:00:00+00:00</updated>
+    <author>
+      <name>XBOW Team</name>
+    </author>
+    <link href="https://xbow.com/blog/ai-pentest-vendors-red-flags"/>
+    <summary>By XBOW Team</summary>
+    <published>2026-05-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/mythos-offensive-security-xbow-evaluation</id>
+    <title>Mythos for Offensive Security: XBOW's Evaluation</title>
+    <updated>2026-05-12T00:00:00+00:00</updated>
+    <author>
+      <name>Albert Ziegler</name>
+    </author>
+    <link href="https://xbow.com/blog/mythos-offensive-security-xbow-evaluation"/>
+    <summary>By Albert Ziegler</summary>
+    <published>2026-05-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim</id>
+    <title>Dead.Letter (CVE-2026-45185) How XBOW Found an Unauthenticated RCE on Exim</title>
+    <updated>2026-05-12T00:00:00+00:00</updated>
+    <author>
+      <name>Federico Kirschbaum, Andres Luksenberg</name>
+    </author>
+    <link href="https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim"/>
+    <summary>By Federico Kirschbaum, Andres Luksenberg</summary>
+    <published>2026-05-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/insecure-direct-object-reference-idor</id>
+    <title>What Is Insecure Direct Object Reference (IDOR), and How Do You Test for It?</title>
+    <updated>2026-05-06T00:00:00+00:00</updated>
+    <author>
+      <name>XBOW Team</name>
+    </author>
+    <link href="https://xbow.com/blog/insecure-direct-object-reference-idor"/>
+    <summary>By XBOW Team</summary>
+    <published>2026-05-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/ai-pentesting-evaluation-guide</id>
+    <title>How to Evaluate an AI Pentesting Vendor: A Decision Framework for Security Leaders</title>
+    <updated>2026-04-28T00:00:00+00:00</updated>
+    <author>
+      <name>XBOW Team</name>
+    </author>
+    <link href="https://xbow.com/blog/ai-pentesting-evaluation-guide"/>
+    <summary>By XBOW Team</summary>
+    <published>2026-04-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/mythos-like-hacking-open-to-all</id>
+    <title>GPT-5.5: Mythos-Like Hacking, Open To All</title>
+    <updated>2026-04-23T00:00:00+00:00</updated>
+    <author>
+      <name>Albert Ziegler, Steve Buckley</name>
+    </author>
+    <link href="https://xbow.com/blog/mythos-like-hacking-open-to-all"/>
+    <summary>By Albert Ziegler, Steve Buckley</summary>
+    <published>2026-04-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/democratizing-cyber-capabilities</id>
+    <title>GPT-5.5: Democratizing Cyber Capabilities</title>
+    <updated>2026-04-23T00:00:00+00:00</updated>
+    <author>
+      <name>Nico Waisman, Oege de Moor</name>
+    </author>
+    <link href="https://xbow.com/blog/democratizing-cyber-capabilities"/>
+    <summary>By Nico Waisman, Oege de Moor</summary>
+    <published>2026-04-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/anthropic-opus4-7-first-look</id>
+    <title>Smaller Bites, Bigger Meals: What We Learned Running Opus 4.7 in Offensive Workflows</title>
+    <updated>2026-04-16T00:00:00+00:00</updated>
+    <author>
+      <name>Albert Ziegler</name>
+    </author>
+    <link href="https://xbow.com/blog/anthropic-opus4-7-first-look"/>
+    <summary>By Albert Ziegler</summary>
+    <published>2026-04-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/ai-pentesting-strengths-weaknesses-xbow-fills-gaps</id>
+    <title>AI for Pentesting: Strengths, Weaknesses, and Where XBOW Fills the Gaps</title>
+    <updated>2026-04-08T00:00:00+00:00</updated>
+    <author>
+      <name>Albert Ziegler</name>
+    </author>
+    <link href="https://xbow.com/blog/ai-pentesting-strengths-weaknesses-xbow-fills-gaps"/>
+    <summary>By Albert Ziegler</summary>
+    <published>2026-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/ai-exploitation-attack-path-analysis</id>
+    <title>AI-Assisted Attack Path Analysis and Exploitation Planning</title>
+    <updated>2026-04-07T00:00:00+00:00</updated>
+    <author>
+      <name>XBOW Team</name>
+    </author>
+    <link href="https://xbow.com/blog/ai-exploitation-attack-path-analysis"/>
+    <summary>By XBOW Team</summary>
+    <published>2026-04-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/machine-learning-for-vulnerability-discovery</id>
+    <title>Machine Learning for Vulnerability Discovery</title>
+    <updated>2026-04-03T00:00:00+00:00</updated>
+    <author>
+      <name>XBOW Team</name>
+    </author>
+    <link href="https://xbow.com/blog/machine-learning-for-vulnerability-discovery"/>
+    <summary>By XBOW Team</summary>
+    <published>2026-04-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/three-rce-vulnerabilities-in-microsoft-identified-xbow</id>
+    <title>Three Critical RCE Vulnerabilities in Microsoft Software Identified Autonomously by XBOW</title>
+    <updated>2026-04-02T00:00:00+00:00</updated>
+    <author>
+      <name>Nico Waisman</name>
+    </author>
+    <link href="https://xbow.com/blog/three-rce-vulnerabilities-in-microsoft-identified-xbow"/>
+    <summary>By Nico Waisman</summary>
+    <published>2026-04-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-available-eu-data-residency</id>
+    <title>XBOW Now Available With EU Data Residency</title>
+    <updated>2026-03-31T00:00:00+00:00</updated>
+    <author>
+      <name>Fani Bahar, Luke Cartey</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-available-eu-data-residency"/>
+    <summary>By Fani Bahar, Luke Cartey</summary>
+    <published>2026-03-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/making-continuous-offensive-security-operational-microsoft</id>
+    <title>Making Continuous Offensive Security Operational with Microsoft</title>
+    <updated>2026-03-23T00:00:00+00:00</updated>
+    <author>
+      <name>Kevin Magee</name>
+    </author>
+    <link href="https://xbow.com/blog/making-continuous-offensive-security-operational-microsoft"/>
+    <summary>By Kevin Magee</summary>
+    <published>2026-03-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/core-components-ai-pentesting-framework</id>
+    <title>Core Components of an AI Pentesting Framework</title>
+    <updated>2026-03-18T00:00:00+00:00</updated>
+    <author>
+      <name>XBOW Team</name>
+    </author>
+    <link href="https://xbow.com/blog/core-components-ai-pentesting-framework"/>
+    <summary>By XBOW Team</summary>
+    <published>2026-03-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/ai-transforming-offensive-security</id>
+    <title>How AI Is Transforming Offensive Security: Benefits, Limitations &amp; Trends</title>
+    <updated>2026-03-12T00:00:00+00:00</updated>
+    <author>
+      <name>XBOW Team</name>
+    </author>
+    <link href="https://xbow.com/blog/ai-transforming-offensive-security"/>
+    <summary>By XBOW Team</summary>
+    <published>2026-03-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/introducing-assessment-guidance</id>
+    <title>Introducing Assessment Guidance: Map Your Brain Onto XBOW's</title>
+    <updated>2026-03-12T00:00:00+00:00</updated>
+    <author>
+      <name>Aqeel Siddiqui</name>
+    </author>
+    <link href="https://xbow.com/blog/introducing-assessment-guidance"/>
+    <summary>By Aqeel Siddiqui</summary>
+    <published>2026-03-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/we-ran-1060-autonomous-attacks</id>
+    <title>We Ran 1,060 Autonomous Attacks. Here's What the Industry Gets Wrong.</title>
+    <updated>2026-03-02T00:00:00+00:00</updated>
+    <author>
+      <name>Albert Ziegler</name>
+    </author>
+    <link href="https://xbow.com/blog/we-ran-1060-autonomous-attacks"/>
+    <summary>By Albert Ziegler</summary>
+    <published>2026-03-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-ai-pentesting-vs-dast</id>
+    <title>XBOW AI-Driven Pentesting vs. DAST</title>
+    <updated>2026-02-12T00:00:00+00:00</updated>
+    <author>
+      <name>Ray Kelly</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-ai-pentesting-vs-dast"/>
+    <summary>By Ray Kelly</summary>
+    <published>2026-02-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/traditional-pentesting-vs-ai-pentesting</id>
+    <title>Traditional Pentesting vs. AI-Assisted Pentesting: Pros, Cons &amp; Use Cases</title>
+    <updated>2026-02-09T00:00:00+00:00</updated>
+    <author>
+      <name>XBOW Team</name>
+    </author>
+    <link href="https://xbow.com/blog/traditional-pentesting-vs-ai-pentesting"/>
+    <summary>By XBOW Team</summary>
+    <published>2026-02-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/how-often-penetration-testing</id>
+    <title>How Often Should Penetration Testing Be Done?</title>
+    <updated>2026-02-07T00:00:00+00:00</updated>
+    <author>
+      <name>XBOW Team</name>
+    </author>
+    <link href="https://xbow.com/blog/how-often-penetration-testing"/>
+    <summary>By XBOW Team</summary>
+    <published>2026-02-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-is-now-available-on-aws-marketplace</id>
+    <title>XBOW is now available on AWS Marketplace</title>
+    <updated>2026-02-05T00:00:00+00:00</updated>
+    <author>
+      <name>Chris Nicosia</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-is-now-available-on-aws-marketplace"/>
+    <summary>By Chris Nicosia</summary>
+    <published>2026-02-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/tales-from-the-trace-how-xbow-reasons-its-way-into-finding-idors</id>
+    <title>Tales from the Trace: How XBOW reasons its way into finding IDORs</title>
+    <updated>2026-02-04T00:00:00+00:00</updated>
+    <author>
+      <name>Adrian Losada Pita</name>
+    </author>
+    <link href="https://xbow.com/blog/tales-from-the-trace-how-xbow-reasons-its-way-into-finding-idors"/>
+    <summary>By Adrian Losada Pita</summary>
+    <published>2026-02-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/what-is-ai-pentesting</id>
+    <title>What Is AI-Driven Pen Testing</title>
+    <updated>2026-02-02T00:00:00+00:00</updated>
+    <author>
+      <name>XBOW Team</name>
+    </author>
+    <link href="https://xbow.com/blog/what-is-ai-pentesting"/>
+    <summary>By XBOW Team</summary>
+    <published>2026-02-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/introducing-the-xbow-public-api</id>
+    <title>Introducing the XBOW Public API</title>
+    <updated>2026-02-02T00:00:00+00:00</updated>
+    <author>
+      <name>Aqeel Siddiqui</name>
+    </author>
+    <link href="https://xbow.com/blog/introducing-the-xbow-public-api"/>
+    <summary>By Aqeel Siddiqui</summary>
+    <published>2026-02-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/tales-from-the-trace-how-context-aware-ai-redefines-vulnerability-reports</id>
+    <title>Tales from the Trace: How Context-Aware AI Redefines Vulnerability Reports</title>
+    <updated>2026-01-27T00:00:00+00:00</updated>
+    <author>
+      <name>Ray Kelly</name>
+    </author>
+    <link href="https://xbow.com/blog/tales-from-the-trace-how-context-aware-ai-redefines-vulnerability-reports"/>
+    <summary>By Ray Kelly</summary>
+    <published>2026-01-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/why-llms-hallucinate-vulnerabilities</id>
+    <title>Why LLMs Hallucinate Vulnerabilities</title>
+    <updated>2026-01-15T00:00:00+00:00</updated>
+    <author>
+      <name>Albert Ziegler</name>
+    </author>
+    <link href="https://xbow.com/blog/why-llms-hallucinate-vulnerabilities"/>
+    <summary>By Albert Ziegler</summary>
+    <published>2026-01-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/security-in-2026-what-breaks-what-scales-and-what-survives</id>
+    <title>Security in 2026: What Breaks, What Scales, and What Survives</title>
+    <updated>2026-01-13T00:00:00+00:00</updated>
+    <author>
+      <name>Oege de Moor</name>
+    </author>
+    <link href="https://xbow.com/blog/security-in-2026-what-breaks-what-scales-and-what-survives"/>
+    <summary>By Oege de Moor</summary>
+    <published>2026-01-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/react2shell-cve-2025-55182-a-wake-up-call-for-modern-web-security</id>
+    <title>React2Shell (CVE-2025-55182): A Wake-Up Call for Modern Web Security and How XBOW Helps You Respond</title>
+    <updated>2025-12-05T00:00:00+00:00</updated>
+    <author>
+      <name>Nico Waisman</name>
+    </author>
+    <link href="https://xbow.com/blog/react2shell-cve-2025-55182-a-wake-up-call-for-modern-web-security"/>
+    <summary>By Nico Waisman</summary>
+    <published>2025-12-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/test-against-ai-powered-attacks-gtg1002</id>
+    <title>How Companies Can Test Their Systems Against AI-powered Attacks Like GTG-1002</title>
+    <updated>2025-11-18T00:00:00+00:00</updated>
+    <author>
+      <name>Aqeel Siddiqui</name>
+    </author>
+    <link href="https://xbow.com/blog/test-against-ai-powered-attacks-gtg1002"/>
+    <summary>By Aqeel Siddiqui</summary>
+    <published>2025-11-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/anthropic-gtg1002-ai-cyberattack-analysis</id>
+    <title>‍Autonomous Offense IRL: What Anthropic’s GTG‑1002 Exposes, and How We Scale the Fight Back</title>
+    <updated>2025-11-14T00:00:00+00:00</updated>
+    <author>
+      <name>Nico Waisman</name>
+    </author>
+    <link href="https://xbow.com/blog/anthropic-gtg1002-ai-cyberattack-analysis"/>
+    <summary>By Nico Waisman</summary>
+    <published>2025-11-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/pentest-on-demand</id>
+    <title>Stop Scheduling Security. Start Securing with XBOW Lightspeed Pentest On-Demand.</title>
+    <updated>2025-11-12T00:00:00+00:00</updated>
+    <author>
+      <name>Oege de Moor</name>
+    </author>
+    <link href="https://xbow.com/blog/pentest-on-demand"/>
+    <summary>By Oege de Moor</summary>
+    <published>2025-11-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/customer-bloompath</id>
+    <title>BloomPath AI Accelerates SOC 2 Readiness with Autonomous Pentesting using XBOW</title>
+    <updated>2025-11-06T00:00:00+00:00</updated>
+    <link href="https://xbow.com/blog/customer-bloompath"/>
+    <published>2025-11-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/democratizing-offensive-security</id>
+    <title>From HackerOne’s leaderboard to the NYSE Floor: Our Journey to the Cyber60</title>
+    <updated>2025-11-03T00:00:00+00:00</updated>
+    <author>
+      <name>Nico Waisman</name>
+    </author>
+    <link href="https://xbow.com/blog/democratizing-offensive-security"/>
+    <summary>By Nico Waisman</summary>
+    <published>2025-11-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/tales-from-the-trace-how-agentic-ai-merges-static-and-dynamic-testing</id>
+    <title>Tales from the Trace: How Agentic AI Merges Static and Dynamic Testing</title>
+    <updated>2025-10-09T00:00:00+00:00</updated>
+    <author>
+      <name>Ray Kelly, Alvaro Muñoz</name>
+    </author>
+    <link href="https://xbow.com/blog/tales-from-the-trace-how-agentic-ai-merges-static-and-dynamic-testing"/>
+    <summary>By Ray Kelly, Alvaro Muñoz</summary>
+    <published>2025-10-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/cooking-an-sql-injection-vulnerability-in-chef-automate</id>
+    <title>Cooking an SQL Injection Vulnerability in Chef Automate</title>
+    <updated>2025-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Javier Gil</name>
+    </author>
+    <link href="https://xbow.com/blog/cooking-an-sql-injection-vulnerability-in-chef-automate"/>
+    <summary>By Javier Gil</summary>
+    <published>2025-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/the-chaos-phase-ai-cybersecurity-threats-2025</id>
+    <title>The Chaos Phase: How AI is Transforming Cybersecurity Threats</title>
+    <updated>2025-09-24T00:00:00+00:00</updated>
+    <author>
+      <name>Oege de Moor</name>
+    </author>
+    <link href="https://xbow.com/blog/the-chaos-phase-ai-cybersecurity-threats-2025"/>
+    <summary>By Oege de Moor</summary>
+    <published>2025-09-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/apache-druid-proxy</id>
+    <title>CVE-2025-27888: Server-Side Request Forgery via URL Parsing Confusion in Apache Druid Proxy Endpoint</title>
+    <updated>2025-09-23T00:00:00+00:00</updated>
+    <author>
+      <name>Nico Waisman</name>
+    </author>
+    <link href="https://xbow.com/blog/apache-druid-proxy"/>
+    <summary>By Nico Waisman</summary>
+    <published>2025-09-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-on-hackerone-whats-next</id>
+    <title>XBOW on HackerOne: What’s Next</title>
+    <updated>2025-08-18T00:00:00+00:00</updated>
+    <author>
+      <name>Nico Waisman</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-on-hackerone-whats-next"/>
+    <summary>By Nico Waisman</summary>
+    <published>2025-08-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/empowering-defenders-in-the-age-of-ai-my-journey-to-xbow</id>
+    <title>Empowering Defenders in the Age of AI: My Journey to XBOW</title>
+    <updated>2025-08-18T00:00:00+00:00</updated>
+    <author>
+      <name>Niroshan Rajadurai</name>
+    </author>
+    <link href="https://xbow.com/blog/empowering-defenders-in-the-age-of-ai-my-journey-to-xbow"/>
+    <summary>By Niroshan Rajadurai</summary>
+    <published>2025-08-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/gpt-5</id>
+    <title>XBOW Unleashes GPT-5’s Hidden Hacking Power, Doubling Performance</title>
+    <updated>2025-08-15T00:00:00+00:00</updated>
+    <author>
+      <name>Oege de Moor, Albert Ziegler</name>
+    </author>
+    <link href="https://xbow.com/blog/gpt-5"/>
+    <summary>By Oege de Moor, Albert Ziegler</summary>
+    <published>2025-08-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/black-hat-2025</id>
+    <title>Black Hat &amp; DEF CON: Running XBOW Live, Presentation Slides, and The Talk You Didn’t Miss</title>
+    <updated>2025-08-13T00:00:00+00:00</updated>
+    <author>
+      <name>Nico Waisman</name>
+    </author>
+    <link href="https://xbow.com/blog/black-hat-2025"/>
+    <summary>By Nico Waisman</summary>
+    <published>2025-08-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-vanta</id>
+    <title>XBOW Partners with Vanta to Bring Autonomous Penetration Testing to Startups</title>
+    <updated>2025-08-05T00:00:00+00:00</updated>
+    <author>
+      <name>Joanna Clifton</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-vanta"/>
+    <summary>By Joanna Clifton</summary>
+    <published>2025-08-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-geolocation-sqli</id>
+    <title>The campaign is not available in your country: XBOW discovered an SQLi while attempting to bypass geolocation restrictions.</title>
+    <updated>2025-07-31T00:00:00+00:00</updated>
+    <author>
+      <name>Nico Waisman</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-geolocation-sqli"/>
+    <summary>By Nico Waisman</summary>
+    <published>2025-07-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-titiler-lfi</id>
+    <title>Another Byte Bites the Dust - How XBOW Turned a Blind SSRF into a File Reading Oracle</title>
+    <updated>2025-07-28T00:00:00+00:00</updated>
+    <author>
+      <name>Alvaro Muñoz</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-titiler-lfi"/>
+    <summary>By Alvaro Muñoz</summary>
+    <published>2025-07-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-titiler-rce</id>
+    <title>Beyond the Bands: Exploiting TiTiler’s Expression Parser for Remote Code Execution</title>
+    <updated>2025-07-24T00:00:00+00:00</updated>
+    <author>
+      <name>Alvaro Muñoz</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-titiler-rce"/>
+    <summary>By Alvaro Muñoz</summary>
+    <published>2025-07-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-photo-proxy-lfi</id>
+    <title>How XBOW turned a JavaScript hint into a working file inclusion</title>
+    <updated>2025-07-21T00:00:00+00:00</updated>
+    <author>
+      <name>Nico Waisman</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-photo-proxy-lfi"/>
+    <summary>By Nico Waisman</summary>
+    <published>2025-07-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/alloy-agents</id>
+    <title>Agents Built From Alloys</title>
+    <updated>2025-07-17T00:00:00+00:00</updated>
+    <author>
+      <name>Albert Ziegler</name>
+    </author>
+    <link href="https://xbow.com/blog/alloy-agents"/>
+    <summary>By Albert Ziegler</summary>
+    <published>2025-07-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-ninja-tables</id>
+    <title>XBOW battles Ninja Tables: Who’s the Real Ninja?</title>
+    <updated>2025-07-14T00:00:00+00:00</updated>
+    <author>
+      <name>Alvaro Muñoz</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-ninja-tables"/>
+    <summary>By Alvaro Muñoz</summary>
+    <published>2025-07-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-zpush-sqli</id>
+    <title>When the Heat Gets to Your Database: A Refreshing SQL Injection Discovery in Z-Push</title>
+    <updated>2025-07-10T00:00:00+00:00</updated>
+    <author>
+      <name>Javier Gil</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-zpush-sqli"/>
+    <summary>By Javier Gil</summary>
+    <published>2025-07-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-salesforce-xss</id>
+    <title>Finding XSS in Salesforce Aura Components: How XBOW Got Creative</title>
+    <updated>2025-07-07T00:00:00+00:00</updated>
+    <author>
+      <name>Diego Jurado</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-salesforce-xss"/>
+    <summary>By Diego Jurado</summary>
+    <published>2025-07-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-akamai-cloudtest-xxe</id>
+    <title>CVE-2025-49493: XML External Entity (XXE) Injection in Akamai CloudTest</title>
+    <updated>2025-06-30T00:00:00+00:00</updated>
+    <author>
+      <name>Diego Jurado</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-akamai-cloudtest-xxe"/>
+    <summary>By Diego Jurado</summary>
+    <published>2025-06-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/top-1-how-xbow-did-it</id>
+    <title>The road to Top 1: How XBOW did it</title>
+    <updated>2025-06-24T00:00:00+00:00</updated>
+    <author>
+      <name>Nico Waisman</name>
+    </author>
+    <link href="https://xbow.com/blog/top-1-how-xbow-did-it"/>
+    <summary>By Nico Waisman</summary>
+    <published>2025-06-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/series-b</id>
+    <title>Taking the Top Hacker in the US to New Heights: XBOW Raises $75M Series B</title>
+    <updated>2025-06-24T00:00:00+00:00</updated>
+    <author>
+      <name>Oege de Moor</name>
+    </author>
+    <link href="https://xbow.com/blog/series-b"/>
+    <summary>By Oege de Moor</summary>
+    <published>2025-06-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-globalprotect-xss</id>
+    <title>Breaking the Shield: How XBOW Discovered Multiple XSS Vulnerabilities in Palo Alto’s GlobalProtect VPN</title>
+    <updated>2025-06-24T00:00:00+00:00</updated>
+    <author>
+      <name>Alvaro Muñoz</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-globalprotect-xss"/>
+    <summary>By Alvaro Muñoz</summary>
+    <published>2025-06-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-zoo-project-arb</id>
+    <title>The Nightmare Before Christmas: An arbitrary file download on Zoo-Project</title>
+    <updated>2024-12-20T00:00:00+00:00</updated>
+    <author>
+      <name>Nico Waisman</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-zoo-project-arb"/>
+    <summary>By Nico Waisman</summary>
+    <published>2024-12-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-2fauth-xss</id>
+    <title>Stored Cross-Site Scripting (XSS) in 2FAuth</title>
+    <updated>2024-12-13T00:00:00+00:00</updated>
+    <author>
+      <name>Diego Jurado</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-2fauth-xss"/>
+    <summary>By Diego Jurado</summary>
+    <published>2024-12-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-eddi-path</id>
+    <title>LabsAI’s EDDI project path traversal</title>
+    <updated>2024-12-02T00:00:00+00:00</updated>
+    <author>
+      <name>Diego Jurado</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-eddi-path"/>
+    <summary>By Diego Jurado</summary>
+    <published>2024-12-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-2fauth-ssrf</id>
+    <title>SSRF &amp; URI validation bypass in 2FAuth</title>
+    <updated>2024-11-22T00:00:00+00:00</updated>
+    <author>
+      <name>Nico Waisman</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-2fauth-ssrf"/>
+    <summary>By Nico Waisman</summary>
+    <published>2024-11-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-scoold-vuln</id>
+    <title>How XBOW found a Scoold authentication bypass</title>
+    <updated>2024-11-13T00:00:00+00:00</updated>
+    <author>
+      <name>Nico Waisman</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-scoold-vuln"/>
+    <summary>By Nico Waisman</summary>
+    <published>2024-11-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/benchmarks</id>
+    <title>XBOW validation benchmarks: show me the numbers!</title>
+    <updated>2024-11-09T00:00:00+00:00</updated>
+    <author>
+      <name>Nico Waisman</name>
+    </author>
+    <link href="https://xbow.com/blog/benchmarks"/>
+    <summary>By Nico Waisman</summary>
+    <published>2024-11-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-vs-humans</id>
+    <title>XBOW now matches the capabilities of a top human pentester</title>
+    <updated>2024-08-05T00:00:00+00:00</updated>
+    <author>
+      <name>Oege de Moor</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-vs-humans"/>
+    <summary>By Oege de Moor</summary>
+    <published>2024-08-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/breaking-crypto-with-xbow</id>
+    <title>Breaking Crypto with XBOW</title>
+    <updated>2024-07-17T00:00:00+00:00</updated>
+    <author>
+      <name>Brendan Dolan‑Gavitt</name>
+    </author>
+    <link href="https://xbow.com/blog/breaking-crypto-with-xbow"/>
+    <summary>By Brendan Dolan‑Gavitt</summary>
+    <published>2024-07-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/introducing-xbow</id>
+    <title>Introducing XBOW</title>
+    <updated>2024-07-15T00:00:00+00:00</updated>
+    <author>
+      <name>Oege de Moor</name>
+    </author>
+    <link href="https://xbow.com/blog/introducing-xbow"/>
+    <summary>By Oege de Moor</summary>
+    <published>2024-07-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/xbow-seed-investment</id>
+    <title>Sequoia Capital leads $20M seed round in XBOW</title>
+    <updated>2023-07-30T00:00:00+00:00</updated>
+    <author>
+      <name>Oege de Moor</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-seed-investment"/>
+    <summary>By Oege de Moor</summary>
+    <published>2023-07-30T00:00:00+00:00</published>
+  </entry>
+</feed>

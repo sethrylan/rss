@@ -1,0 +1,35 @@
+name: Build feeds
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+
+      - name: Install Python
+        run: uv python install 3.12
+
+      - name: Install dependencies
+        run: uv sync --locked
+
+      - name: Build feeds
+        run: uv run --locked python scrapers/xbow.py > xbow.xml
+
+      - name: Commit feed updates
+        run: |
+          git config user.name bot
+          git config user.email bot@users.noreply.github.com
+          git add ./*.xml
+          if ! git diff --staged --quiet; then
+            git commit -m "update feeds"
+            git push
+          fi
