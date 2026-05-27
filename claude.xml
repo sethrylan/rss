@@ -33,6 +33,17 @@
     <published>2026-05-27T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://claude.com/blog/using-llms-to-secure-source-code</id>
+    <title>Using LLMs to secure source code</title>
+    <updated>2026-05-27T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/using-llms-to-secure-source-code"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-05-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build</id>
     <title>Code w/ Claude London 2026: Rethinking how we build</title>
     <updated>2026-05-26T00:00:00+00:00</updated>
@@ -152,17 +163,6 @@
     <link href="https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude"/>
     <summary>Agents</summary>
     <published>2026-05-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/claude-for-the-legal-industry</id>
-    <title>Claude for the legal industry</title>
-    <updated>2026-05-12T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/claude-for-the-legal-industry"/>
-    <summary>Product announcements</summary>
-    <published>2026-05-12T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/code-w-claude-sf-2026-sf</id>
