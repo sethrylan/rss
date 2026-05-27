@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://claude.com/blog</id>
   <title>Claude Blog</title>
-  <updated>2026-05-26T00:00:00+00:00</updated>
+  <updated>2026-05-27T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
+  <entry>
+    <id>https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system</id>
+    <title>How CodeRabbit Used Claude to Build an Agent Orchestration System</title>
+    <updated>2026-05-27T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system"/>
+    <summary>Claude Code</summary>
+    <published>2026-05-27T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build</id>
     <title>Code w/ Claude London 2026: Rethinking how we build</title>
@@ -163,17 +174,6 @@
     <link href="https://claude.com/blog/code-w-claude-sf-2026-sf"/>
     <summary>Product announcements</summary>
     <published>2026-05-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/agent-view-in-claude-code</id>
-    <title>Agent view in Claude Code</title>
-    <updated>2026-05-11T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/agent-view-in-claude-code"/>
-    <summary>Product announcements</summary>
-    <published>2026-05-11T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/new-in-claude-managed-agents</id>
