@@ -11,6 +11,17 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
   <entry>
+    <id>https://claude.com/blog/zero-trust-for-ai-agents</id>
+    <title>Zero Trust for AI agents</title>
+    <updated>2026-05-27T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/zero-trust-for-ai-agents"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-05-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system</id>
     <title>How CodeRabbit Used Claude to Build an Agent Orchestration System</title>
     <updated>2026-05-27T00:00:00+00:00</updated>
@@ -141,17 +152,6 @@
     <link href="https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude"/>
     <summary>Agents</summary>
     <published>2026-05-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/how-anthropic-uses-claude-cybersecurity</id>
-    <title>How Anthropic's cybersecurity team built a threat detection platform with Claude Code</title>
-    <updated>2026-05-12T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/how-anthropic-uses-claude-cybersecurity"/>
-    <summary>Claude Code</summary>
-    <published>2026-05-12T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/claude-for-the-legal-industry</id>
