@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://claude.com/blog</id>
   <title>Claude Blog</title>
-  <updated>2026-05-28T00:00:00+00:00</updated>
+  <updated>2026-06-03T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
+  <entry>
+    <id>https://claude.com/blog/running-an-ai-native-engineering-org</id>
+    <title>Running an AI-native engineering org</title>
+    <updated>2026-06-03T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/running-an-ai-native-engineering-org"/>
+    <summary>Claude Code</summary>
+    <published>2026-06-03T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://claude.com/blog/introducing-dynamic-workflows-in-claude-code</id>
     <title>Introducing dynamic workflows in Claude Code</title>
@@ -163,17 +174,6 @@
     <link href="https://claude.com/blog/the-founders-playbook"/>
     <summary>Claude Code</summary>
     <published>2026-05-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude</id>
-    <title>Best practices for computer and browser use with Claude</title>
-    <updated>2026-05-13T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude"/>
-    <summary>Agents</summary>
-    <published>2026-05-13T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/new-in-claude-managed-agents</id>
