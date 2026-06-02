@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://xbow.com/blog</id>
   <title>XBOW Blog</title>
-  <updated>2026-05-28T00:00:00+00:00</updated>
+  <updated>2026-06-02T00:00:00+00:00</updated>
   <author>
     <name>XBOW</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/xbow.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>AI-powered pentesting insights from XBOW.</subtitle>
+  <entry>
+    <id>https://xbow.com/blog/mythos-gpt-5-5-ai-vulnerability-detection-security</id>
+    <title>Mythos and GPT-5.5 Will Find a Lot of Vulnerabilities. Is That Enough?</title>
+    <updated>2026-06-02T00:00:00+00:00</updated>
+    <author>
+      <name>Suzanne Ciccone</name>
+    </author>
+    <link href="https://xbow.com/blog/mythos-gpt-5-5-ai-vulnerability-detection-security"/>
+    <summary>By Suzanne Ciccone</summary>
+    <published>2026-06-02T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://xbow.com/blog/xbow-finds-idors-high-accuracy-ambiguous-context</id>
     <title>Getting to “Should I?”, Instead of “Can I?”: How XBOW Finds IDORs With High Accuracy in Ambiguous Contexts</title>
