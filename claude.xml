@@ -22,6 +22,17 @@
     <published>2026-06-03T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork</id>
+    <title>Best practices for getting started with Claude Cowork</title>
+    <updated>2026-06-03T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-06-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills</id>
     <title>Lessons from building Claude Code: How we use skills</title>
     <updated>2026-06-03T00:00:00+00:00</updated>
@@ -172,7 +183,6 @@
       <name>Anthropic</name>
     </author>
     <link href="https://claude.com/blog/claude-managed-agents-updates"/>
-    <summary>Product announcements</summary>
     <published>2026-05-19T00:00:00+00:00</published>
   </entry>
   <entry>
