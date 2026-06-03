@@ -22,6 +22,28 @@
     <published>2026-06-03T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills</id>
+    <title>Lessons from building Claude Code: How we use skills</title>
+    <updated>2026-06-03T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills"/>
+    <summary>Claude Code</summary>
+    <published>2026-06-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude</id>
+    <title>How Anthropic enables self-service data analytics with Claude</title>
+    <updated>2026-06-03T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-06-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code</id>
     <title>A harness for every task: dynamic workflows in Claude Code</title>
     <updated>2026-06-02T00:00:00+00:00</updated>
@@ -152,28 +174,6 @@
     <link href="https://claude.com/blog/claude-managed-agents-updates"/>
     <summary>Product announcements</summary>
     <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/deploying-claude-across-the-legal-industry</id>
-    <title>Deploying Claude across the legal industry</title>
-    <updated>2026-05-15T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/deploying-claude-across-the-legal-industry"/>
-    <summary>Enterprise AI</summary>
-    <published>2026-05-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/the-founders-playbook</id>
-    <title>The founder's playbook: Building an AI-native startup</title>
-    <updated>2026-05-14T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/the-founders-playbook"/>
-    <summary>Claude Code</summary>
-    <published>2026-05-14T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/new-in-claude-managed-agents</id>
