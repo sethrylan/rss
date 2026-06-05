@@ -22,6 +22,17 @@
     <published>2026-06-05T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://claude.com/blog/the-claude-cowork-product-guide</id>
+    <title>The Claude Cowork product guide</title>
+    <updated>2026-06-05T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/the-claude-cowork-product-guide"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-06-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://claude.com/blog/running-an-ai-native-engineering-org</id>
     <title>Running an AI-native engineering org</title>
     <updated>2026-06-03T00:00:00+00:00</updated>
@@ -163,17 +174,6 @@
     <link href="https://claude.com/blog/compliance-api-security-partners"/>
     <summary>Enterprise AI</summary>
     <published>2026-05-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html</id>
-    <title>Using Claude Code: The unreasonable effectiveness of HTML</title>
-    <updated>2026-05-20T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html"/>
-    <summary>Claude Code</summary>
-    <published>2026-05-20T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/claude-managed-agents-updates</id>
