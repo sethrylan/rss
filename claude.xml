@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://claude.com/blog</id>
   <title>Claude Blog</title>
-  <updated>2026-06-03T00:00:00+00:00</updated>
+  <updated>2026-06-05T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
+  <entry>
+    <id>https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering</id>
+    <title>How one Anthropic seller rebuilt his team's workflows with Claude Code</title>
+    <updated>2026-06-05T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering"/>
+    <summary>Claude Code</summary>
+    <published>2026-06-05T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://claude.com/blog/running-an-ai-native-engineering-org</id>
     <title>Running an AI-native engineering org</title>
@@ -152,17 +163,6 @@
     <link href="https://claude.com/blog/compliance-api-security-partners"/>
     <summary>Enterprise AI</summary>
     <published>2026-05-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book</id>
-    <title>How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book</title>
-    <updated>2026-05-20T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book"/>
-    <summary>Enterprise AI</summary>
-    <published>2026-05-20T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html</id>
