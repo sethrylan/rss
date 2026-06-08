@@ -21,6 +21,17 @@
     <published>2026-06-08T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://claude.com/blog/claude-for-foundation-models</id>
+    <title>Building intelligent apps for Apple platforms with Claude in the Foundation Models framework</title>
+    <updated>2026-06-08T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/claude-for-foundation-models"/>
+    <summary>Product announcements</summary>
+    <published>2026-06-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering</id>
     <title>How one Anthropic seller rebuilt his team's workflows with Claude Code</title>
     <updated>2026-06-05T00:00:00+00:00</updated>
@@ -164,17 +175,6 @@
     <published>2026-05-22T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://claude.com/blog/compliance-api-security-partners</id>
-    <title>Claude now works with more security and compliance tools</title>
-    <updated>2026-05-21T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/compliance-api-security-partners"/>
-    <summary>Enterprise AI</summary>
-    <published>2026-05-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://claude.com/blog/claude-managed-agents-updates</id>
     <title>New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels</title>
     <updated>2026-05-19T00:00:00+00:00</updated>
@@ -263,15 +263,5 @@
     </author>
     <link href="https://claude.com/blog/claude-builds-visuals"/>
     <published>2026-03-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026</id>
-    <title>How enterprises are building AI agents in 2026</title>
-    <updated>2025-12-09T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026"/>
-    <published>2025-12-09T00:00:00+00:00</published>
   </entry>
 </feed>
