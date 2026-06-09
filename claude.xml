@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://claude.com/blog</id>
   <title>Claude Blog</title>
-  <updated>2026-06-08T00:00:00+00:00</updated>
+  <updated>2026-06-09T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
+  <entry>
+    <id>https://claude.com/blog/whats-new-in-claude-managed-agents</id>
+    <title>New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults</title>
+    <updated>2026-06-09T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/whats-new-in-claude-managed-agents"/>
+    <summary>Product announcements</summary>
+    <published>2026-06-09T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://claude.com/blog/observability-for-developers-building-connectors</id>
     <title>Observability for developers building connectors</title>
@@ -163,17 +174,6 @@
     <link href="https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build"/>
     <summary>Product announcements</summary>
     <published>2026-05-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers</id>
-    <title>How Anthropic's finance team uses Claude to shape the narrative behind the numbers</title>
-    <updated>2026-05-22T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers"/>
-    <summary>Enterprise AI</summary>
-    <published>2026-05-22T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/claude-managed-agents-updates</id>
