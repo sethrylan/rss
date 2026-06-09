@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://xbow.com/blog</id>
   <title>XBOW Blog</title>
-  <updated>2026-06-03T00:00:00+00:00</updated>
+  <updated>2026-06-09T00:00:00+00:00</updated>
   <author>
     <name>XBOW</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/xbow.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>AI-powered pentesting insights from XBOW.</subtitle>
+  <entry>
+    <id>https://xbow.com/blog/how-cisos-can-close-the-ai-security-gap</id>
+    <title>How CISOs can close the AI security gap before it widens: A practical framework</title>
+    <updated>2026-06-09T00:00:00+00:00</updated>
+    <author>
+      <name>Suzanne Ciccone</name>
+    </author>
+    <link href="https://xbow.com/blog/how-cisos-can-close-the-ai-security-gap"/>
+    <summary>By Suzanne Ciccone</summary>
+    <published>2026-06-09T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://xbow.com/blog/gpt-5-5-and-xbow-a-step-change-in-autonomous-application-security</id>
     <title>GPT-5.5 and XBOW: A Step Change in Autonomous Application Security</title>
