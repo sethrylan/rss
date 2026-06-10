@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://claude.com/blog</id>
   <title>Claude Blog</title>
-  <updated>2026-06-09T00:00:00+00:00</updated>
+  <updated>2026-06-10T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
+  <entry>
+    <id>https://claude.com/blog/building-with-claude-managed-agents</id>
+    <title>The evolution of agentic surfaces: building with Claude Managed Agents</title>
+    <updated>2026-06-10T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/building-with-claude-managed-agents"/>
+    <summary>Agents</summary>
+    <published>2026-06-10T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://claude.com/blog/whats-new-in-claude-managed-agents</id>
     <title>New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults</title>
@@ -163,17 +174,6 @@
     <link href="https://claude.com/blog/using-llms-to-secure-source-code"/>
     <summary>Enterprise AI</summary>
     <published>2026-05-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build</id>
-    <title>Code w/ Claude London 2026: Rethinking how we build</title>
-    <updated>2026-05-26T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build"/>
-    <summary>Product announcements</summary>
-    <published>2026-05-26T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/claude-managed-agents-updates</id>
