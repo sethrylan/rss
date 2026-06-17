@@ -11,6 +11,17 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
   <entry>
+    <id>https://claude.com/blog/workload-identity-federation</id>
+    <title>Secure access to the Claude Platform with Workload Identity Federation</title>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/workload-identity-federation"/>
+    <summary>Product announcements</summary>
+    <published>2026-06-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://claude.com/blog/claude-design-stays-on-brand-for-daily-work</id>
     <title>Claude Design now stays on brand for daily work</title>
     <updated>2026-06-17T00:00:00+00:00</updated>
@@ -163,17 +174,6 @@
     <link href="https://claude.com/blog/introducing-dynamic-workflows-in-claude-code"/>
     <summary>Product announcements</summary>
     <published>2026-05-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/using-llms-to-secure-source-code</id>
-    <title>Using LLMs to secure source code</title>
-    <updated>2026-05-27T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/using-llms-to-secure-source-code"/>
-    <summary>Enterprise AI</summary>
-    <published>2026-05-27T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/claude-managed-agents-updates</id>
