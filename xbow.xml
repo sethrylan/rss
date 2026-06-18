@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://xbow.com/blog</id>
   <title>XBOW Blog</title>
-  <updated>2026-06-12T00:00:00+00:00</updated>
+  <updated>2026-06-18T00:00:00+00:00</updated>
   <author>
     <name>XBOW</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/xbow.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>AI-powered pentesting insights from XBOW.</subtitle>
+  <entry>
+    <id>https://xbow.com/blog/ai-pentesting-vs-vulnerability-scanners</id>
+    <title>AI Pentesting Tools vs Automated Vulnerability Scanners</title>
+    <updated>2026-06-18T00:00:00+00:00</updated>
+    <author>
+      <name>XBOW Team</name>
+    </author>
+    <link href="https://xbow.com/blog/ai-pentesting-vs-vulnerability-scanners"/>
+    <summary>By XBOW Team</summary>
+    <published>2026-06-18T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://xbow.com/blog/ai-pentesting-enterprise-large-security-teams</id>
     <title>Enterprise Application Pentesting Best Practices: A Guide for Large-Scale Security Teams</title>
