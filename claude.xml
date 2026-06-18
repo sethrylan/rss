@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://claude.com/blog</id>
   <title>Claude Blog</title>
-  <updated>2026-06-19T00:00:00+00:00</updated>
+  <updated>2026-06-18T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -11,15 +11,37 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
   <entry>
+    <id>https://claude.com/blog/artifacts-in-claude-code</id>
+    <title>Claude Code now supports artifacts</title>
+    <updated>2026-06-18T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/artifacts-in-claude-code"/>
+    <summary>Product announcements</summary>
+    <published>2026-06-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/enterprise-managed-auth</id>
+    <title>Centrally manage authorization for MCP connectors</title>
+    <updated>2026-06-18T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/enterprise-managed-auth"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-06-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more</id>
     <title>Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more</title>
-    <updated>2026-06-19T00:00:00+00:00</updated>
+    <updated>2026-06-18T00:00:00+00:00</updated>
     <author>
       <name>Anthropic</name>
     </author>
     <link href="https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more"/>
     <summary>Claude Code</summary>
-    <published>2026-06-19T00:00:00+00:00</published>
+    <published>2026-06-18T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/workload-identity-federation</id>
@@ -132,28 +154,6 @@
     <published>2026-06-05T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://claude.com/blog/running-an-ai-native-engineering-org</id>
-    <title>Running an AI-native engineering org</title>
-    <updated>2026-06-03T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/running-an-ai-native-engineering-org"/>
-    <summary>Claude Code</summary>
-    <published>2026-06-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork</id>
-    <title>Best practices for getting started with Claude Cowork</title>
-    <updated>2026-06-03T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork"/>
-    <summary>Enterprise AI</summary>
-    <published>2026-06-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills</id>
     <title>Lessons from building Claude Code: How we use skills</title>
     <updated>2026-06-03T00:00:00+00:00</updated>
@@ -254,15 +254,5 @@
     </author>
     <link href="https://claude.com/blog/harnessing-claudes-intelligence"/>
     <published>2026-04-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/claude-builds-visuals</id>
-    <title>Claude now creates interactive charts, diagrams and visualizations</title>
-    <updated>2026-03-12T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/claude-builds-visuals"/>
-    <published>2026-03-12T00:00:00+00:00</published>
   </entry>
 </feed>
