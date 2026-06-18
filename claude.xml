@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://claude.com/blog</id>
   <title>Claude Blog</title>
-  <updated>2026-06-17T00:00:00+00:00</updated>
+  <updated>2026-06-19T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
+  <entry>
+    <id>https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more</id>
+    <title>Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more</title>
+    <updated>2026-06-19T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more"/>
+    <summary>Claude Code</summary>
+    <published>2026-06-19T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://claude.com/blog/workload-identity-federation</id>
     <title>Secure access to the Claude Platform with Workload Identity Federation</title>
@@ -163,17 +174,6 @@
     <link href="https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude"/>
     <summary>Enterprise AI</summary>
     <published>2026-06-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code</id>
-    <title>A harness for every task: dynamic workflows in Claude Code</title>
-    <updated>2026-06-02T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code"/>
-    <summary>Claude Code</summary>
-    <published>2026-06-02T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/claude-managed-agents-updates</id>
