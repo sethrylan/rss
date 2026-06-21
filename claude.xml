@@ -176,6 +176,16 @@
     <published>2026-06-03T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://claude.com/blog/new-in-claude-managed-agents</id>
+    <title>New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration</title>
+    <updated>2026-05-19T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/new-in-claude-managed-agents"/>
+    <published>2026-05-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://claude.com/blog/claude-managed-agents-updates</id>
     <title>New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels</title>
     <updated>2026-05-19T00:00:00+00:00</updated>
@@ -184,16 +194,6 @@
     </author>
     <link href="https://claude.com/blog/claude-managed-agents-updates"/>
     <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/new-in-claude-managed-agents</id>
-    <title>New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration</title>
-    <updated>2026-05-06T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/new-in-claude-managed-agents"/>
-    <published>2026-05-06T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/claude-managed-agents-memory</id>
