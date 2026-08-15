@@ -12,13 +12,14 @@ from selectolax.parser import HTMLParser, Node
 
 BLOG_URL = "https://xbow.com/blog"
 FEED_URL = "https://raw.githubusercontent.com/sethrylan/rss/main/xbow.xml"
+MAX_PAGES = 50
 
 
 @dataclass(frozen=True)
 class Post:
     title: str
     url: str
-    published: datetime | None
+    published: datetime
     authors: tuple[str, ...]
 
 
@@ -28,41 +29,62 @@ def text(node: Node | None) -> str:
     return " ".join(node.text(strip=True).split())
 
 
-def parse_date(value: str) -> datetime | None:
-    if not value:
+def parse_date(value: str) -> datetime:
+    try:
+        parsed = datetime.fromisoformat(value)
+    except ValueError as error:
+        raise ValueError(f"Unsupported XBOW blog date format: {value}") from error
+
+    # Treat a date without an offset as UTC so the feed does not depend on the builder's timezone.
+    if parsed.tzinfo is None:
+        return parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
+
+
+def parse_card(card: Node) -> Post | None:
+    href = card.attributes.get("href", "")
+    if not href.startswith("/blog/") or href.startswith("/blog/category/"):
         return None
-    for date_format in ("%B %d, %Y", "%b %d, %Y"):
-        try:
-            return datetime.strptime(value, date_format).replace(tzinfo=timezone.utc)
-        except ValueError:
-            continue
-    raise ValueError(f"Unsupported XBOW blog date format: {value}")
+
+    title = text(card.css_first("h3"))
+    published = card.css_first("time[datetime]")
+    if not title or published is None:
+        return None
+
+    # The card markup repeats each author for a visible and an aria-hidden copy;
+    # only the latter carries data-author-item, so this list is already deduped.
+    authors = tuple(author for node in card.css("[data-author-item]") if (author := text(node)))
+
+    return Post(
+        title=title,
+        url=urljoin(BLOG_URL, href),
+        published=parse_date(published.attributes["datetime"]),
+        authors=authors,
+    )
 
 
-def parse_posts(html: str) -> list[Post]:
-    tree = HTMLParser(html)
+def parse_page(html: str) -> list[Post]:
+    return [post for card in HTMLParser(html).css("a[data-card]") if (post := parse_card(card))]
+
+
+def fetch_posts(client: httpx.Client) -> list[Post]:
     posts: list[Post] = []
     seen: set[str] = set()
 
-    for card in tree.css("div.ds_blog_card.w-dyn-item"):
-        link = card.css_first('a.link_cover[href^="/blog/"], a.link_cover[href^="https://xbow.com/blog/"]')
-        title = text(card.css_first('[fs-list-field="name"]'))
-        if link is None or not title:
-            continue
+    # The blog paginates at /blog/page/N; walk until a page yields nothing new.
+    for page in range(1, MAX_PAGES + 1):
+        url = BLOG_URL if page == 1 else f"{BLOG_URL}/page/{page}"
+        response = client.get(url)
+        if response.status_code == httpx.codes.NOT_FOUND:
+            break
+        response.raise_for_status()
 
-        url = urljoin(BLOG_URL, link.attributes["href"])
-        if url in seen:
-            continue
+        fresh = [post for post in parse_page(response.text) if post.url not in seen]
+        if not fresh:
+            break
 
-        date_text = text(card.css_first('[fs-list-field="date"]'))
-        authors = tuple(
-            author
-            for node in card.css(".ds_blog_card_content p.ds-text-style-regular.ds-text-color-secondary")
-            if (author := text(node))
-        )
-
-        posts.append(Post(title=title, url=url, published=parse_date(date_text), authors=authors))
-        seen.add(url)
+        posts.extend(fresh)
+        seen.update(post.url for post in fresh)
 
     if not posts:
         raise RuntimeError("No XBOW blog posts found; the blog markup may have changed.")
@@ -71,8 +93,7 @@ def parse_posts(html: str) -> list[Post]:
 
 
 def build_feed(posts: list[Post]) -> bytes:
-    fallback_updated = datetime(1970, 1, 1, tzinfo=timezone.utc)
-    updated = max((post.published for post in posts if post.published), default=fallback_updated)
+    updated = max(post.published for post in posts)
 
     feed = FeedGenerator()
     feed.id(BLOG_URL)
@@ -85,14 +106,13 @@ def build_feed(posts: list[Post]) -> bytes:
     feed.updated(updated)
 
     # feedgen emits entries in reverse insertion order, so add oldest to newest.
-    for post in sorted(posts, key=lambda item: item.published or fallback_updated):
-        entry_updated = post.published or updated
+    for post in sorted(posts, key=lambda item: item.published):
         entry = feed.add_entry()
         entry.id(post.url)
         entry.title(post.title)
         entry.link(href=post.url, rel="alternate")
-        entry.updated(entry_updated)
-        entry.published(entry_updated)
+        entry.updated(post.published)
+        entry.published(post.published)
         if post.authors:
             entry.author({"name": ", ".join(post.authors)})
             entry.summary(f"By {', '.join(post.authors)}")
@@ -101,9 +121,9 @@ def build_feed(posts: list[Post]) -> bytes:
 
 
 def main() -> None:
-    response = httpx.get(BLOG_URL, follow_redirects=True, timeout=30)
-    response.raise_for_status()
-    sys.stdout.buffer.write(build_feed(parse_posts(response.text)))
+    with httpx.Client(follow_redirects=True, timeout=30) as client:
+        posts = fetch_posts(client)
+    sys.stdout.buffer.write(build_feed(posts))
 
 
 if __name__ == "__main__":
