@@ -21,13 +21,25 @@ jobs:
       - name: Install dependencies
         run: uv sync --locked
 
+      # Each scraper writes to a temp file first, so a site whose markup changed
+      # leaves its own feed untouched instead of blocking every other feed.
       - name: Build feeds
         run: |
-          uv run --locked python scrapers/claude.py > claude.xml
-          uv run --locked python scrapers/xbow.py > xbow.xml
-          uv run --locked python scrapers/livablecitylab.py > livablecitylab.xml
+          failed=0
+          for scraper in scrapers/*.py; do
+            feed="$(basename "$scraper" .py).xml"
+            if uv run --locked python "$scraper" > "$feed.tmp"; then
+              mv "$feed.tmp" "$feed"
+            else
+              echo "::error file=$scraper::$scraper failed; leaving $feed unchanged"
+              rm -f "$feed.tmp"
+              failed=1
+            fi
+          done
+          exit $failed
 
       - name: Commit feed updates
+        if: ${{ !cancelled() }}
         run: |
           git config user.name bot
           git config user.email bot@users.noreply.github.com
