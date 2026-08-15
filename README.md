@@ -8,6 +8,7 @@ Generated feeds for sites that do not publish their own.
 | --- | --- |
 | Claude Blog | `https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml` |
 | XBOW Blog | `https://raw.githubusercontent.com/sethrylan/rss/main/xbow.xml` |
+| Livable City Lab News | `https://raw.githubusercontent.com/sethrylan/rss/main/livablecitylab.xml` |
 
 ## Adding a feed
 

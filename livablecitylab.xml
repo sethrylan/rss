@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+  <id>https://livablecitylab.yale.edu/news</id>
+  <title>Livable City Lab News</title>
+  <updated>2026-07-22T00:00:00+00:00</updated>
+  <author>
+    <name>Yale Livable City Lab</name>
+  </author>
+  <link href="https://livablecitylab.yale.edu/news" rel="alternate"/>
+  <link href="https://raw.githubusercontent.com/sethrylan/rss/main/livablecitylab.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>News from the Yale Livable City Lab on urban design, geospatial data, and sustainability.</subtitle>
+  <entry>
+    <id>https://lnkd.in/geguW4eD</id>
+    <title>Guest on the Densely Speaking podcast</title>
+    <updated>2026-07-22T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://lnkd.in/geguW4eD"/>
+    <summary>Joined Jeffrey Lin and Greg Shill to discuss our analysis of how people used urban public spaces over 30 years.</summary>
+    <published>2026-07-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://environment.yale.edu/news/article/suburban-street-design-thats-been-driving-emissions-wwii</id>
+    <title>YSE Feature on Our Nature Sustainability Study</title>
+    <updated>2026-07-22T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://environment.yale.edu/news/article/suburban-street-design-thats-been-driving-emissions-wwii"/>
+    <summary>New YSE feature on our research showing how a century-old suburban planning paradigm continues to shape greenhouse gas emissions and social outcomes today.</summary>
+    <published>2026-07-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nature.com/articles/s41893-026-01842-7</id>
+    <title>New paper in Nature Sustainability</title>
+    <updated>2026-07-20T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://www.nature.com/articles/s41893-026-01842-7"/>
+    <summary>Our new paper shows that the design of suburban neighborhoods, not just where they’re located, plays an important role in driving emissions, social isolation, and sedentary lifestyles.</summary>
+    <published>2026-07-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://livablecitylab.yale.edu/projects/zoning-ai</id>
+    <title>Simulating Zoning Reform with Generative AI</title>
+    <updated>2026-01-13T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://livablecitylab.yale.edu/projects/zoning-ai"/>
+    <summary>In a new paper in Cities, we use generative AI to test zoning reforms and quantify how land-use mix can reduce travel distances.</summary>
+    <published>2026-01-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vitalcitynyc.org/articles/designing-cities-for-a-sustainable-climate-future</id>
+    <title>Designing Cities to Go the Distance</title>
+    <updated>2025-10-10T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://www.vitalcitynyc.org/articles/designing-cities-for-a-sustainable-climate-future"/>
+    <summary>Nice piece by Carol Goodstein on Vital City featuring our work on Zoning.</summary>
+    <published>2025-10-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2025/pedestrians-now-walk-faster-and-linger-less-researchers-find-0724</id>
+    <title>Pedestrians now walk faster and linger less, researchers find</title>
+    <updated>2025-07-25T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://news.mit.edu/2025/pedestrians-now-walk-faster-and-linger-less-researchers-find-0724"/>
+    <summary>MIT News featured our most recent work using computer vision to study social Interactions in public spaces.</summary>
+    <published>2025-07-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://usa.streetsblog.org/2025/07/08/form-based-codes-mean-more-sustainable-cities</id>
+    <title>Form-Based Codes Mean More Sustainable Cities</title>
+    <updated>2025-07-18T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://usa.streetsblog.org/2025/07/08/form-based-codes-mean-more-sustainable-cities"/>
+    <summary>Our zoning research was featured in Streetsblog</summary>
+    <published>2025-07-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://livablecitylab.yale.edu/news#lcl-went-to-venice</id>
+    <title>LCL went to Venice!</title>
+    <updated>2025-05-24T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://livablecitylab.yale.edu/news#lcl-went-to-venice"/>
+    <summary>We exhibited our project "Eyes on the Street" at the 2025 Venice Biennale, themed "Intelligens. Natural. Artificial. Collective." Our work uses computer vision to analyze how street life has evolved by comparing William Whyte’s iconic 1980 Super 8 films with contemporary footage from three U.S. cities. We found that people now move faster through public spaces and engage less in group interactions. If public spaces no longer primarily serve as gathering places, what role should they play in contemporary urban life?</summary>
+    <published>2025-05-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://medium.com/reimagining-the-civic-commons/the-lost-art-of-lingering-97f83ac3c355</id>
+    <title>The Lost Art of Lingering</title>
+    <updated>2025-05-21T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://medium.com/reimagining-the-civic-commons/the-lost-art-of-lingering-97f83ac3c355"/>
+    <summary>Our research was recently featured by Reimagining the Civic Commons! We discussed how street life in public spaces is changing. Check out the full article at the link below.</summary>
+    <published>2025-05-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.elconfidencial.com/cultura/2025-04-17/urbanismo-arianna-salazar-miranda-yale_4109711/</id>
+    <title>Interview with Spanish newspaper El Confidencial</title>
+    <updated>2025-04-29T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://www.elconfidencial.com/cultura/2025-04-17/urbanismo-arianna-salazar-miranda-yale_4109711/"/>
+    <published>2025-04-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nature.com/articles/s44284-025-00214-0</id>
+    <title>New paper out in Nature Cities!</title>
+    <updated>2025-04-15T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://www.nature.com/articles/s44284-025-00214-0"/>
+    <summary>We used natural language processing (NLP) to analyze thousands of zoning documents and study the impact of zoning reform—specifically, form-based codes (FBCs)—on urban sustainability.</summary>
+    <published>2025-04-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nature.com/articles/s41562-024-02079-0.epdf?sharing_token=492rbVwxoEEMOVlQPEWvutRgN0jAjWel9jnR3ZoTv0OW6FhenKVsz_2mJ4hXil1EG_Q4Haa7NZcf5pxuClZf31PcGGakSNGD6YGNneor8KgfAgA8mv00vY8vFJdGb9fQg_XE6cj_Ck5lpQf5kDHsb2nnrk40gj7s7hThvbQtC7I%3D</id>
+    <title>New paper on how mobility data can be used to study experienced inequalities in urban areas</title>
+    <updated>2025-02-17T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://www.nature.com/articles/s41562-024-02079-0.epdf?sharing_token=492rbVwxoEEMOVlQPEWvutRgN0jAjWel9jnR3ZoTv0OW6FhenKVsz_2mJ4hXil1EG_Q4Haa7NZcf5pxuClZf31PcGGakSNGD6YGNneor8KgfAgA8mv00vY8vFJdGb9fQg_XE6cj_Ck5lpQf5kDHsb2nnrk40gj7s7hThvbQtC7I%3D"/>
+    <summary>Check it out in Nature Human Behaviour! Inequality and segregation are shaped by differences in what we can access. Using mobility data, we can track how places and people change over time to measure experienced inequality—who people interact with, what services they can reach, and how they adapt to disruptions like pandemics or disasters.</summary>
+    <published>2025-02-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2025-01-23/us-pedestrian-study-we-re-walking-faster-hanging-out-less</id>
+    <title>What Happened to Hanging Out on the Street?</title>
+    <updated>2025-01-23T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://www.bloomberg.com/news/articles/2025-01-23/us-pedestrian-study-we-re-walking-faster-hanging-out-less"/>
+    <summary>Excited to see David Zipper’s latest CityLab Bloomberg story featuring our work—go check it out!</summary>
+    <published>2025-01-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://livablecitylab.yale.edu/news#congratulations-on-thesis-submission</id>
+    <title>Congratulations on Thesis Submission!</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://livablecitylab.yale.edu/news#congratulations-on-thesis-submission"/>
+    <summary>Congratulations to Felix on the successful submission of their senior thesis, “Grey to Green: A Novel Application of Computer Vision to Quantify On-Street Parking in London,” to the Department of Statistics &amp; Data Science!</summary>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/opinion/articles/2024-12-01/the-sad-decline-of-the-public-hangout-in-new-york-and-other-cities</id>
+    <title>The Sad Decline of the Public Hangout</title>
+    <updated>2024-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://www.bloomberg.com/opinion/articles/2024-12-01/the-sad-decline-of-the-public-hangout-in-new-york-and-other-cities"/>
+    <summary>The marginal revolution picked up on our research. Read more on Bloomberg.</summary>
+    <published>2024-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33185</id>
+    <title>New working paper is out! We examine changes in street life over time using William Whyte's seminal videos and computer vision.</title>
+    <updated>2024-11-27T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://www.nber.org/papers/w33185"/>
+    <summary>Analyzing changes in pedestrian behavior across urban public spaces in New York, Boston, and Philadelphia over a 30-year period. Key takeaway: City streets are increasingly becoming thoroughfares rather than places for social gathering</summary>
+    <published>2024-11-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://environment.yale.edu/news/article/urban-data-science-expert-arianna-salazar-miranda-joins-yse-faculty</id>
+    <title>Urban Data Science Expert Arianna Salazar-Miranda Joins YSE Faculty</title>
+    <updated>2024-04-30T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://environment.yale.edu/news/article/urban-data-science-expert-arianna-salazar-miranda-joins-yse-faculty"/>
+    <summary>Using computational methods, including causal inference, spatial analysis, sensing, mapping, and related historical work, Salazar-Miranda studies how policies that shape the built environment affect social and environmental outcomes.</summary>
+    <published>2024-04-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nature.com/articles/s41562-023-01770-y</id>
+    <title>Exciting News! Our study, "The 15-minute city quantified using human mobility data," is now published in Nature Human Behaviour</title>
+    <updated>2024-02-06T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://www.nature.com/articles/s41562-023-01770-y"/>
+    <summary>Can US cities embrace the 15-minute city model to reduce car usage and emissions? We wrote about it in this Bloomberg City Lab op-ed.</summary>
+    <published>2024-02-06T00:00:00+00:00</published>
+  </entry>
+</feed>

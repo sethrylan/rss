@@ -25,6 +25,7 @@ jobs:
         run: |
           uv run --locked python scrapers/claude.py > claude.xml
           uv run --locked python scrapers/xbow.py > xbow.xml
+          uv run --locked python scrapers/livablecitylab.py > livablecitylab.xml
 
       - name: Commit feed updates
         run: |
