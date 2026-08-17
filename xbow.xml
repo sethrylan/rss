@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://xbow.com/blog</id>
   <title>XBOW Blog</title>
-  <updated>2026-08-14T12:00:00+00:00</updated>
+  <updated>2026-08-17T12:00:00+00:00</updated>
   <author>
     <name>XBOW</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/xbow.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>AI-powered pentesting insights from XBOW.</subtitle>
+  <entry>
+    <id>https://xbow.com/blog/ecb-ai-cybersecurity-autonomous-offensive-security</id>
+    <title>The European Central Bank Just Made Autonomous Offensive Security a Board-Level Problem</title>
+    <updated>2026-08-17T12:00:00+00:00</updated>
+    <author>
+      <name>Julian Totzek-Hallhuber</name>
+    </author>
+    <link href="https://xbow.com/blog/ecb-ai-cybersecurity-autonomous-offensive-security"/>
+    <summary>By Julian Totzek-Hallhuber</summary>
+    <published>2026-08-17T12:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://xbow.com/blog/blackhat-2026-hacking-past-future</id>
     <title>Blackhat 2026: Hacking the Past. Hacking the Future.</title>
@@ -97,6 +108,17 @@
     <link href="https://xbow.com/blog/bing-images-rce-vulnerabilities"/>
     <summary>By Nico Waisman</summary>
     <published>2026-07-23T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xbow.com/blog/openai-hugging-face-model-hacks-test</id>
+    <title>The OpenAI and Hugging Face Incident: When the Model Hacks the Test</title>
+    <updated>2026-07-22T13:21:22.015000+00:00</updated>
+    <author>
+      <name>Nico Waisman</name>
+    </author>
+    <link href="https://xbow.com/blog/openai-hugging-face-model-hacks-test"/>
+    <summary>By Nico Waisman</summary>
+    <published>2026-07-22T13:21:22.015000+00:00</published>
   </entry>
   <entry>
     <id>https://xbow.com/blog/red-reaming-vs-ai-pentesting</id>
