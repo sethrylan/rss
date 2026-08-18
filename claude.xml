@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://claude.com/blog</id>
   <title>Claude Blog</title>
-  <updated>2026-08-17T00:00:00+00:00</updated>
+  <updated>2026-08-18T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
+  <entry>
+    <id>https://claude.com/blog/the-claude-science-product-guide</id>
+    <title>The Claude Science product guide</title>
+    <updated>2026-08-18T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/the-claude-science-product-guide"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-08-18T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents</id>
     <title>How ABC Legal turned every employee into a builder with Claude Managed Agents</title>
@@ -162,17 +173,6 @@
     <link href="https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude"/>
     <summary>Enterprise AI</summary>
     <published>2026-08-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/bringing-mcp-2026-07-28-to-claude</id>
-    <title>Bringing MCP 2026-07-28 to Claude</title>
-    <updated>2026-07-28T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/bringing-mcp-2026-07-28-to-claude"/>
-    <summary>Product announcements</summary>
-    <published>2026-07-28T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/artifacts-in-claude-code</id>
