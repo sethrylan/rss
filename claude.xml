@@ -11,6 +11,17 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
   <entry>
+    <id>https://claude.com/blog/computer-use-skills-api-files-api</id>
+    <title>Build production agents with computer use, the Skills API, and the Files API</title>
+    <updated>2026-08-20T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/computer-use-skills-api-files-api"/>
+    <summary>Product announcements</summary>
+    <published>2026-08-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://claude.com/blog/claude-code-guide-for-startups</id>
     <title>The Claude Code guide for startups</title>
     <updated>2026-08-20T00:00:00+00:00</updated>
@@ -140,17 +151,6 @@
     <link href="https://claude.com/blog/compliance-api-cowork-and-claude-code"/>
     <summary>Enterprise AI</summary>
     <published>2026-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/auto-mode-in-production</id>
-    <title>Running auto mode in production</title>
-    <updated>2026-08-07T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/auto-mode-in-production"/>
-    <summary>Claude Code</summary>
-    <published>2026-08-07T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/auto-mode-default-in-claude-code</id>
