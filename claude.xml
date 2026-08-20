@@ -12,7 +12,7 @@
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
   <entry>
     <id>https://claude.com/blog/claude-code-guide-for-startups</id>
-    <title>The Claude Code Guide For Startups</title>
+    <title>The Claude Code guide for startups</title>
     <updated>2026-08-20T00:00:00+00:00</updated>
     <author>
       <name>Anthropic</name>
@@ -30,6 +30,17 @@
     </author>
     <link href="https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate"/>
     <summary>Agents</summary>
+    <published>2026-08-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai</id>
+    <title>Anthropic’s approach to teaching and learning AI</title>
+    <updated>2026-08-20T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai"/>
+    <summary>Product announcements</summary>
     <published>2026-08-20T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -162,17 +173,6 @@
     <link href="https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale"/>
     <summary>Enterprise AI</summary>
     <published>2026-08-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude</id>
-    <title>Millennium and Anthropic are building a digital risk analyst with Claude</title>
-    <updated>2026-08-06T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude"/>
-    <summary>Enterprise AI</summary>
-    <published>2026-08-06T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/artifacts-in-claude-code</id>
