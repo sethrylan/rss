@@ -22,6 +22,17 @@
     <published>2026-08-21T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders</id>
+    <title>Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders</title>
+    <updated>2026-08-21T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders"/>
+    <summary>Product announcements</summary>
+    <published>2026-08-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://claude.com/blog/computer-use-skills-api-files-api</id>
     <title>Build production agents with computer use, the Skills API, and the Files API</title>
     <updated>2026-08-20T00:00:00+00:00</updated>
@@ -139,6 +150,7 @@
       <name>Anthropic</name>
     </author>
     <link href="https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions"/>
+    <summary>Agents</summary>
     <published>2026-08-13T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -162,17 +174,6 @@
     <link href="https://claude.com/blog/compliance-api-cowork-and-claude-code"/>
     <summary>Enterprise AI</summary>
     <published>2026-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale</id>
-    <title>How Anthropic's business development team uses Claude to run inbound and outbound at scale</title>
-    <updated>2026-08-07T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale"/>
-    <summary>Enterprise AI</summary>
-    <published>2026-08-07T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/artifacts-in-claude-code</id>
