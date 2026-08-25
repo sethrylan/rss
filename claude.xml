@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://claude.com/blog</id>
   <title>Claude Blog</title>
-  <updated>2026-08-24T00:00:00+00:00</updated>
+  <updated>2026-08-25T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
+  <entry>
+    <id>https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner</id>
+    <title>Bain &amp; Company joins the Claude Partner Network as a Global Premier partner</title>
+    <updated>2026-08-25T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-08-25T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep</id>
     <title>How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep</title>
@@ -163,17 +174,6 @@
     <link href="https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions"/>
     <summary>Agents</summary>
     <published>2026-08-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/cowork-chrome-side-panel</id>
-    <title>The Claude in Chrome side panel is now Claude Cowork</title>
-    <updated>2026-08-12T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/cowork-chrome-side-panel"/>
-    <summary>Product announcements</summary>
-    <published>2026-08-12T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/artifacts-in-claude-code</id>
