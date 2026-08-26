@@ -11,6 +11,17 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
   <entry>
+    <id>https://claude.com/blog/cowork-built-in-browser</id>
+    <title>Claude gets its own browser in Cowork</title>
+    <updated>2026-08-26T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/cowork-built-in-browser"/>
+    <summary>Product announcements</summary>
+    <published>2026-08-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://claude.com/blog/claude-in-chrome-generally-available</id>
     <title>Claude in Chrome is generally available</title>
     <updated>2026-08-26T00:00:00+00:00</updated>
@@ -165,17 +176,6 @@
     <published>2026-08-17T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</id>
-    <title>Maximizing the value of your Claude Code sessions</title>
-    <updated>2026-08-14T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions"/>
-    <summary>Claude Code</summary>
-    <published>2026-08-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://claude.com/blog/artifacts-in-claude-code</id>
     <title>Claude Code now supports artifacts</title>
     <updated>2026-06-18T00:00:00+00:00</updated>
@@ -254,15 +254,5 @@
     </author>
     <link href="https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense"/>
     <published>2026-04-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/claude-managed-agents</id>
-    <title>Claude Managed Agents: get to production 10x faster</title>
-    <updated>2026-04-08T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/claude-managed-agents"/>
-    <published>2026-04-08T00:00:00+00:00</published>
   </entry>
 </feed>
