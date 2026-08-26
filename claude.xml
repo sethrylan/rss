@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://claude.com/blog</id>
   <title>Claude Blog</title>
-  <updated>2026-08-25T00:00:00+00:00</updated>
+  <updated>2026-08-26T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -10,6 +10,28 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
+  <entry>
+    <id>https://claude.com/blog/claude-in-chrome-generally-available</id>
+    <title>Claude in Chrome is generally available</title>
+    <updated>2026-08-26T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/claude-in-chrome-generally-available"/>
+    <summary>Product announcements</summary>
+    <published>2026-08-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</id>
+    <title>How Warp builds self-improving agents on Claude</title>
+    <updated>2026-08-26T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude"/>
+    <summary>Agents</summary>
+    <published>2026-08-26T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it</id>
     <title>Claude's memory works everywhere, and you decide what's in it</title>
@@ -154,28 +176,6 @@
     <published>2026-08-14T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</id>
-    <title>Claude Tag now reads even more of the room</title>
-    <updated>2026-08-13T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room"/>
-    <summary>Product announcements</summary>
-    <published>2026-08-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions</id>
-    <title>Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions</title>
-    <updated>2026-08-13T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions"/>
-    <summary>Agents</summary>
-    <published>2026-08-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://claude.com/blog/artifacts-in-claude-code</id>
     <title>Claude Code now supports artifacts</title>
     <updated>2026-06-18T00:00:00+00:00</updated>
@@ -264,15 +264,5 @@
     </author>
     <link href="https://claude.com/blog/claude-managed-agents"/>
     <published>2026-04-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/harnessing-claudes-intelligence</id>
-    <title>Agent Harness Design: 3 Patterns for Harnessing Claude's Intelligence</title>
-    <updated>2026-04-02T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/harnessing-claudes-intelligence"/>
-    <published>2026-04-02T00:00:00+00:00</published>
   </entry>
 </feed>
