@@ -12,13 +12,24 @@
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
   <entry>
     <id>https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</id>
-    <title>Claude for Teachers, now available for schools and districts</title>
+    <title>Claude for Teachers, now available for U.S. K-12 schools and districts</title>
     <updated>2026-08-28T00:00:00+00:00</updated>
     <author>
       <name>Anthropic</name>
     </author>
     <link href="https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts"/>
     <summary>Product announcements</summary>
+    <published>2026-08-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/how-anthropic-employees-use-claude-tag</id>
+    <title>How Anthropic employees use Claude Tag</title>
+    <updated>2026-08-28T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/how-anthropic-employees-use-claude-tag"/>
+    <summary>Enterprise AI</summary>
     <published>2026-08-28T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -163,17 +174,6 @@
     <link href="https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams"/>
     <summary>Enterprise AI</summary>
     <published>2026-08-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/ai-ci-cd-on-call</id>
-    <title>Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures</title>
-    <updated>2026-08-18T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/ai-ci-cd-on-call"/>
-    <summary>Enterprise AI</summary>
-    <published>2026-08-18T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/artifacts-in-claude-code</id>
