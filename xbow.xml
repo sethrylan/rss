@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://xbow.com/blog</id>
   <title>XBOW Blog</title>
-  <updated>2026-08-27T14:26:54.961000+00:00</updated>
+  <updated>2026-08-31T12:00:00+00:00</updated>
   <author>
     <name>XBOW</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/xbow.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>AI-powered pentesting insights from XBOW.</subtitle>
+  <entry>
+    <id>https://xbow.com/blog/ai-pentesting-vendor-rfp</id>
+    <title>How to Run an AI Application Pentesting Vendor RFP: The Evaluation Framework that actually works</title>
+    <updated>2026-08-31T12:00:00+00:00</updated>
+    <author>
+      <name>XBOW Team</name>
+    </author>
+    <link href="https://xbow.com/blog/ai-pentesting-vendor-rfp"/>
+    <summary>By XBOW Team</summary>
+    <published>2026-08-31T12:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://xbow.com/blog/continuous-attack-surface-testing-vs-penetration-testing</id>
     <title>Continuous Attack Surface Testing vs Penetration Testing: Key Differences</title>
