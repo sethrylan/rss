@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://claude.com/blog</id>
   <title>Claude Blog</title>
-  <updated>2026-08-28T00:00:00+00:00</updated>
+  <updated>2026-09-02T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -10,6 +10,28 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
+  <entry>
+    <id>https://claude.com/blog/claude-for-commerce-agents</id>
+    <title>Building commerce agents with Claude</title>
+    <updated>2026-09-02T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/claude-for-commerce-agents"/>
+    <summary>Product announcements</summary>
+    <published>2026-09-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/the-anatomy-of-effective-commerce-agents</id>
+    <title>A guide to the anatomy of effective commerce agents</title>
+    <updated>2026-09-02T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/the-anatomy-of-effective-commerce-agents"/>
+    <summary>Agents</summary>
+    <published>2026-09-02T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</id>
     <title>Claude for Teachers, now available for U.S. K-12 schools and districts</title>
@@ -121,17 +143,6 @@
     <published>2026-08-21T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://claude.com/blog/computer-use-skills-api-files-api</id>
-    <title>Build production agents with computer use, the Skills API, and the Files API</title>
-    <updated>2026-08-20T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/computer-use-skills-api-files-api"/>
-    <summary>Product announcements</summary>
-    <published>2026-08-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://claude.com/blog/claude-code-guide-for-startups</id>
     <title>The Claude Code guide for startups</title>
     <updated>2026-08-20T00:00:00+00:00</updated>
@@ -163,17 +174,6 @@
     <link href="https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai"/>
     <summary>Product announcements</summary>
     <published>2026-08-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams</id>
-    <title>Turning conversation into knowledge: how Slack builds human-agent teams</title>
-    <updated>2026-08-19T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams"/>
-    <summary>Enterprise AI</summary>
-    <published>2026-08-19T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/artifacts-in-claude-code</id>
