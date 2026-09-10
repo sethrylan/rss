@@ -11,6 +11,17 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
   <entry>
+    <id>https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai</id>
+    <title>What 1,000 small business owners taught us about AI</title>
+    <updated>2026-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process</id>
     <title>T. Rowe Price brings more of Claude to its investment process</title>
     <updated>2026-09-10T00:00:00+00:00</updated>
@@ -162,17 +173,6 @@
     <link href="https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders"/>
     <summary>Product announcements</summary>
     <published>2026-08-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai</id>
-    <title>Anthropic’s approach to teaching and learning AI</title>
-    <updated>2026-08-20T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai"/>
-    <summary>Product announcements</summary>
-    <published>2026-08-20T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/artifacts-in-claude-code</id>
