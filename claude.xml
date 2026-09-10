@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://claude.com/blog</id>
   <title>Claude Blog</title>
-  <updated>2026-09-08T00:00:00+00:00</updated>
+  <updated>2026-09-10T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -10,6 +10,16 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
+  <entry>
+    <id>https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process</id>
+    <title>T. Rowe Price brings more of Claude to its investment process</title>
+    <updated>2026-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process"/>
+    <published>2026-09-10T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform</id>
     <title>Reducing cost and improving performance with Claude Platform</title>
@@ -152,17 +162,6 @@
     <link href="https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders"/>
     <summary>Product announcements</summary>
     <published>2026-08-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate</id>
-    <title>How monday.com transformed its platform into an agent-first product where humans and agents collaborate</title>
-    <updated>2026-08-20T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate"/>
-    <summary>Agents</summary>
-    <published>2026-08-20T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai</id>
