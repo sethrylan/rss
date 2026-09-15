@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://claude.com/blog</id>
   <title>Claude Blog</title>
-  <updated>2026-09-14T00:00:00+00:00</updated>
+  <updated>2026-09-15T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -10,6 +10,28 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
+  <entry>
+    <id>https://claude.com/blog/building-an-ai-native-revenue-organization</id>
+    <title>Building an AI-native revenue organization</title>
+    <updated>2026-09-15T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/building-an-ai-native-revenue-organization"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-09-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/salesforce-in-claude</id>
+    <title>Bringing Salesforce into Claude</title>
+    <updated>2026-09-15T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/salesforce-in-claude"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-09-15T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://claude.com/blog/deploying-ai-from-pilot-to-production</id>
     <title>Deploying AI from pilot to production</title>
@@ -138,7 +160,6 @@
       <name>Anthropic</name>
     </author>
     <link href="https://claude.com/blog/cowork-built-in-browser"/>
-    <summary>Product announcements</summary>
     <published>2026-08-26T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -162,17 +183,6 @@
     <link href="https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude"/>
     <summary>Agents</summary>
     <published>2026-08-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner</id>
-    <title>Bain &amp; Company joins the Claude Partner Network as a Global Premier partner</title>
-    <updated>2026-08-25T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner"/>
-    <summary>Enterprise AI</summary>
-    <published>2026-08-25T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/artifacts-in-claude-code</id>
