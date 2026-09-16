@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://claude.com/blog</id>
   <title>Claude Blog</title>
-  <updated>2026-09-15T00:00:00+00:00</updated>
+  <updated>2026-09-16T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
+  <entry>
+    <id>https://claude.com/blog/cowork-is-now-claude</id>
+    <title>Claude Cowork and chat are now one Claude</title>
+    <updated>2026-09-16T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/cowork-is-now-claude"/>
+    <summary>Product announcements</summary>
+    <published>2026-09-16T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs</id>
     <title>Claude for Small Business launches new workflows, integrations, and training programs</title>
@@ -184,17 +195,6 @@
     <published>2026-08-26T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</id>
-    <title>How Warp builds self-improving agents on Claude</title>
-    <updated>2026-08-26T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude"/>
-    <summary>Agents</summary>
-    <published>2026-08-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://claude.com/blog/artifacts-in-claude-code</id>
     <title>Claude Code now supports artifacts</title>
     <updated>2026-06-18T00:00:00+00:00</updated>
@@ -253,15 +253,5 @@
     </author>
     <link href="https://claude.com/blog/connectors-for-everyday-life"/>
     <published>2026-04-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/claude-code-desktop-redesign</id>
-    <title>Redesigning Claude Code on desktop for parallel agents</title>
-    <updated>2026-04-14T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/claude-code-desktop-redesign"/>
-    <published>2026-04-14T00:00:00+00:00</published>
   </entry>
 </feed>
