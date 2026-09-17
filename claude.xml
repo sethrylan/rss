@@ -22,6 +22,17 @@
     <published>2026-09-17T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5</id>
+    <title>Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5</title>
+    <updated>2026-09-17T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5"/>
+    <summary>Enterprise AI</summary>
+    <published>2026-09-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://claude.com/blog/cowork-is-now-claude</id>
     <title>Claude Cowork and chat are now one Claude</title>
     <updated>2026-09-16T00:00:00+00:00</updated>
@@ -162,17 +173,6 @@
     <link href="https://claude.com/blog/the-anatomy-of-effective-commerce-agents"/>
     <summary>Agents</summary>
     <published>2026-09-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/how-anthropic-employees-use-claude-tag</id>
-    <title>How Anthropic employees use Claude Tag</title>
-    <updated>2026-08-28T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/how-anthropic-employees-use-claude-tag"/>
-    <summary>Enterprise AI</summary>
-    <published>2026-08-28T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/cowork-built-in-browser</id>
