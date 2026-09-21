@@ -22,6 +22,17 @@
     <published>2026-09-15T14:25:17.076000+00:00</published>
   </entry>
   <entry>
+    <id>https://xbow.com/blog/how-xbow-deduplicates-findings</id>
+    <title>Engineering the Impossible: How XBOW De-Duplicates Findings</title>
+    <updated>2026-09-02T12:00:00+00:00</updated>
+    <author>
+      <name>Adrian Losada Pita</name>
+    </author>
+    <link href="https://xbow.com/blog/how-xbow-deduplicates-findings"/>
+    <summary>By Adrian Losada Pita</summary>
+    <published>2026-09-02T12:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://xbow.com/blog/ai-pentesting-vendor-rfp</id>
     <title>How to Run an AI Application Pentesting Vendor RFP: The Evaluation Framework that actually works</title>
     <updated>2026-08-31T12:00:00+00:00</updated>
