@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://xbow.com/blog</id>
   <title>XBOW Blog</title>
-  <updated>2026-09-15T14:25:17.076000+00:00</updated>
+  <updated>2026-09-21T18:00:00+00:00</updated>
   <author>
     <name>XBOW</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/xbow.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>AI-powered pentesting insights from XBOW.</subtitle>
+  <entry>
+    <id>https://xbow.com/blog/grok-4-7-offensive-security-evaluation</id>
+    <title>Grok 4.7 Is Different. So Is the Best Way to Use It.</title>
+    <updated>2026-09-21T18:00:00+00:00</updated>
+    <author>
+      <name>Albert Ziegler</name>
+    </author>
+    <link href="https://xbow.com/blog/grok-4-7-offensive-security-evaluation"/>
+    <summary>By Albert Ziegler</summary>
+    <published>2026-09-21T18:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://xbow.com/blog/xbow-integration-for-jira-is-now-available</id>
     <title>XBOW Integration for Jira is now Available</title>
