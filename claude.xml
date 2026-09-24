@@ -22,6 +22,17 @@
     <published>2026-09-24T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</id>
+    <title>Claude Tag now supports personal connectors in channels</title>
+    <updated>2026-09-24T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels"/>
+    <summary>Product announcements</summary>
+    <published>2026-09-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://claude.com/blog/claude-marketplace</id>
     <title>Claude Marketplace: one place to discover plugins, agents, and services from our partners</title>
     <updated>2026-09-23T00:00:00+00:00</updated>
@@ -130,17 +141,6 @@
     <link href="https://claude.com/blog/salesforce-in-claude"/>
     <summary>Enterprise AI</summary>
     <published>2026-09-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/deploying-ai-from-pilot-to-production</id>
-    <title>Deploying AI from pilot to production</title>
-    <updated>2026-09-14T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/deploying-ai-from-pilot-to-production"/>
-    <summary>Enterprise AI</summary>
-    <published>2026-09-14T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/how-healthcare-organizations-use-claude-tag</id>
