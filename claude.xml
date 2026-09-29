@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://claude.com/blog</id>
   <title>Claude Blog</title>
-  <updated>2026-09-28T00:00:00+00:00</updated>
+  <updated>2026-09-29T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/claude.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Practical guidance and best practices for building with Claude.</subtitle>
+  <entry>
+    <id>https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude</id>
+    <title>Agents you can coach: how Asana builds human-agent teams with Claude</title>
+    <updated>2026-09-29T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude"/>
+    <summary>Agents</summary>
+    <published>2026-09-29T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia</id>
     <title>Giving companies more control over their AI agents, with NVIDIA</title>
@@ -152,17 +163,6 @@
     <link href="https://claude.com/blog/salesforce-in-claude"/>
     <summary>Enterprise AI</summary>
     <published>2026-09-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/claude-for-financial-advisors</id>
-    <title>Claude for Financial Advisors</title>
-    <updated>2026-09-14T00:00:00+00:00</updated>
-    <author>
-      <name>Anthropic</name>
-    </author>
-    <link href="https://claude.com/blog/claude-for-financial-advisors"/>
-    <summary>Product announcements</summary>
-    <published>2026-09-14T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic</id>
