@@ -22,6 +22,17 @@
     <published>2026-09-30T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://claude.com/blog/claude-for-government-is-now-generally-available</id>
+    <title>Claude for Government is now generally available</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Anthropic</name>
+    </author>
+    <link href="https://claude.com/blog/claude-for-government-is-now-generally-available"/>
+    <summary>Product announcements</summary>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude</id>
     <title>Agents you can coach: how Asana builds human-agent teams with Claude</title>
     <updated>2026-09-29T00:00:00+00:00</updated>
@@ -150,7 +161,6 @@
       <name>Anthropic</name>
     </author>
     <link href="https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs"/>
-    <summary>Product announcements</summary>
     <published>2026-09-15T00:00:00+00:00</published>
   </entry>
   <entry>
