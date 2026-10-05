@@ -22,6 +22,17 @@
     <published>2026-09-28T18:02:55.976000+00:00</published>
   </entry>
   <entry>
+    <id>https://xbow.com/blog/apt-attacks-explained</id>
+    <title>APT Attacks Explained: How Threat Actors Exploit Your Attack Surface</title>
+    <updated>2026-09-28T15:34:50.935000+00:00</updated>
+    <author>
+      <name>Suzanne Ciccone</name>
+    </author>
+    <link href="https://xbow.com/blog/apt-attacks-explained"/>
+    <summary>By Suzanne Ciccone</summary>
+    <published>2026-09-28T15:34:50.935000+00:00</published>
+  </entry>
+  <entry>
     <id>https://xbow.com/blog/grok-4-7-offensive-security-evaluation</id>
     <title>Grok 4.7 Is Different. So Is the Best Way to Use It.</title>
     <updated>2026-09-21T18:00:00+00:00</updated>
