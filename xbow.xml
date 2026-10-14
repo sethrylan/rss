@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://xbow.com/blog</id>
   <title>XBOW Blog</title>
-  <updated>2026-09-28T18:02:55.976000+00:00</updated>
+  <updated>2026-10-14T14:42:00+00:00</updated>
   <author>
     <name>XBOW</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/xbow.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>AI-powered pentesting insights from XBOW.</subtitle>
+  <entry>
+    <id>https://xbow.com/blog/xbow-data-residency-now-available-in-australia-canada-and-japan</id>
+    <title>XBOW Data Residency now Available in Australia, Canada, and Japan</title>
+    <updated>2026-10-14T14:42:00+00:00</updated>
+    <author>
+      <name>Debbie Wood,, Luke Cartey</name>
+    </author>
+    <link href="https://xbow.com/blog/xbow-data-residency-now-available-in-australia-canada-and-japan"/>
+    <summary>By Debbie Wood,, Luke Cartey</summary>
+    <published>2026-10-14T14:42:00+00:00</published>
+  </entry>
   <entry>
     <id>https://xbow.com/blog/no-time-to-pwn-cve-2026-72018</id>
     <title>No Time to Pwn: CVE-2026-72018</title>
