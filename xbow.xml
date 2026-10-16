@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://xbow.com/blog</id>
   <title>XBOW Blog</title>
-  <updated>2026-10-14T14:42:00+00:00</updated>
+  <updated>2026-10-16T13:06:00+00:00</updated>
   <author>
     <name>XBOW</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/xbow.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>AI-powered pentesting insights from XBOW.</subtitle>
+  <entry>
+    <id>https://xbow.com/blog/a-vulnerability-is-a-hypothesis-an-exploit-is-the-proof</id>
+    <title>A Vulnerability Is a Hypothesis. An Exploit Is the Proof.</title>
+    <updated>2026-10-16T13:06:00+00:00</updated>
+    <author>
+      <name>Alvaro Muñoz</name>
+    </author>
+    <link href="https://xbow.com/blog/a-vulnerability-is-a-hypothesis-an-exploit-is-the-proof"/>
+    <summary>By Alvaro Muñoz</summary>
+    <published>2026-10-16T13:06:00+00:00</published>
+  </entry>
   <entry>
     <id>https://xbow.com/blog/xbow-data-residency-now-available-in-australia-canada-and-japan</id>
     <title>XBOW Data Residency now Available in Australia, Canada, and Japan</title>
