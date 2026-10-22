@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://xbow.com/blog</id>
   <title>XBOW Blog</title>
-  <updated>2026-10-20T12:00:00+00:00</updated>
+  <updated>2026-10-22T15:34:00+00:00</updated>
   <author>
     <name>XBOW</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/xbow.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>AI-powered pentesting insights from XBOW.</subtitle>
+  <entry>
+    <id>https://xbow.com/blog/dont-make-it-easy-for-attackers-5-common-appsec-gaps</id>
+    <title>Don't Make It Easy for Attackers: 5 Common AppSec Gaps</title>
+    <updated>2026-10-22T15:34:00+00:00</updated>
+    <author>
+      <name>Julian Totzek-Hallhuber</name>
+    </author>
+    <link href="https://xbow.com/blog/dont-make-it-easy-for-attackers-5-common-appsec-gaps"/>
+    <summary>By Julian Totzek-Hallhuber</summary>
+    <published>2026-10-22T15:34:00+00:00</published>
+  </entry>
   <entry>
     <id>https://xbow.com/blog/introducing-autonomous-exposure-management-kr</id>
     <title>XBOW의 자율형 노출 관리(Autonomous Exposure Management) 서비스 국내 출시, 공격자의 시선으로 애플리케이션의 취약점을 진단</title>
