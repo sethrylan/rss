@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://livablecitylab.yale.edu/news</id>
   <title>Livable City Lab News</title>
-  <updated>2026-07-22T00:00:00+00:00</updated>
+  <updated>2026-11-06T00:00:00+00:00</updated>
   <author>
     <name>Yale Livable City Lab</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/livablecitylab.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>News from the Yale Livable City Lab on urban design, geospatial data, and sustainability.</subtitle>
+  <entry>
+    <id>https://environment.yale.edu/news/article/living-near-coffee-shop-doesnt-mean-youll-walk-it</id>
+    <title>Living near a coffee shop doesn’t necessarily mean you’ll walk to it!</title>
+    <updated>2026-11-06T00:00:00+00:00</updated>
+    <author>
+      <name>Yale Livable City Lab</name>
+    </author>
+    <link href="https://environment.yale.edu/news/article/living-near-coffee-shop-doesnt-mean-youll-walk-it"/>
+    <summary>Excited to share our new paper, Walkability vs. Walking, published in Landscape and Urban Planning, with Emily Talen and Kevin Credit.</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://lnkd.in/geguW4eD</id>
     <title>Guest on the Densely Speaking podcast</title>
