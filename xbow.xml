@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://xbow.com/blog</id>
   <title>XBOW Blog</title>
-  <updated>2026-11-02T16:03:13.384000+00:00</updated>
+  <updated>2026-11-05T17:57:28.553000+00:00</updated>
   <author>
     <name>XBOW</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/xbow.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>AI-powered pentesting insights from XBOW.</subtitle>
+  <entry>
+    <id>https://xbow.com/blog/top-ai-models-for-offensive-security-fall-2026</id>
+    <title>Top AI Models for Offensive Security, Fall 2026: Why Cost Changes Everything</title>
+    <updated>2026-11-05T17:57:28.553000+00:00</updated>
+    <author>
+      <name>Albert Ziegler,, Steve Buckley</name>
+    </author>
+    <link href="https://xbow.com/blog/top-ai-models-for-offensive-security-fall-2026"/>
+    <summary>By Albert Ziegler,, Steve Buckley</summary>
+    <published>2026-11-05T17:57:28.553000+00:00</published>
+  </entry>
   <entry>
     <id>https://xbow.com/blog/introducing-self-serve-reporting-evidence-you-generate-yourself</id>
     <title>Introducing Self-Serve Reporting: Evidence You Generate Yourself</title>
