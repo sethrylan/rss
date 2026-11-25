@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://xbow.com/blog</id>
   <title>XBOW Blog</title>
-  <updated>2026-11-23T01:00:00+00:00</updated>
+  <updated>2026-11-24T13:09:00+00:00</updated>
   <author>
     <name>XBOW</name>
   </author>
@@ -10,6 +10,17 @@
   <link href="https://raw.githubusercontent.com/sethrylan/rss/main/xbow.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>AI-powered pentesting insights from XBOW.</subtitle>
+  <entry>
+    <id>https://xbow.com/blog/ecb-deadline-ai-cybersecurity-prove-readiness</id>
+    <title>The ECB Deadline for AI-enabled Cybersecurity Threats Has Passed. Can You Prove You’re Ready?</title>
+    <updated>2026-11-24T13:09:00+00:00</updated>
+    <author>
+      <name>Julian Totzek-Hallhuber</name>
+    </author>
+    <link href="https://xbow.com/blog/ecb-deadline-ai-cybersecurity-prove-readiness"/>
+    <summary>By Julian Totzek-Hallhuber</summary>
+    <published>2026-11-24T13:09:00+00:00</published>
+  </entry>
   <entry>
     <id>https://xbow.com/blog/singapore-must-test-at-the-speed-of-the-threat</id>
     <title>Singapore Must Test at the Speed of the Threat</title>
